@@ -140,6 +140,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Feedback.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Data 단일 노드 갱신
+- 갱신 범위: [[mapped/Deep Knowledge/Data]] 1개 페이지만 전면 재구성했다.
+- 탐구: 데이터를 DB 제품 목록이 아니라 저장, 검색, 분석, 기억, 정보 과잉까지 이어지는 운영 감각의 노드로 다시 읽히도록 정리했다.
+- 정리: 초안형 대응 문서를 핵심 논지, 저장소별 판단 축, 대용량 처리, 검색 시스템, 인간 기억과 데이터 구조의 긴장, 인접 노드 링크 중심의 한국어 페이지로 바꿨다.
+- 선호 신호: 저자는 데이터 모델링 자체보다 조회 비용, 메모리 한계, 검색 품질, 목적별 저장소 분리, 다시 찾기 쉬운 연결 구조를 더 중시하는 경향이 있다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Data.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
