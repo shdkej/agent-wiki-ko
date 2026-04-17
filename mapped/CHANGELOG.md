@@ -1,79 +1,149 @@
+---
+type: mapped-note
+tags: [mapped, changelog, portfolio, publishing, maintenance]
+source_file: "[[source/shdkej-content/CHANGELOG.md]]"
+source_name: CHANGELOG
+created: 2026-04-14
+updated: 2026-04-17
+status: evolving
+language: ko
+---
+
 # CHANGELOG
 
 - 원본: `source/shdkej-content/CHANGELOG.md`
-- Status: deepened mapped note
-- 역할: 원본 만다라트 노드와 1:1 대응하는 관리 노트
+- 상태: 점진 심화
+- 역할: 원본 만다라트 노드와 1:1 대응하는 루트 카테고리 페이지
 
-## 핵심 주장
-This note is a compact history of how the public site evolved. Its lasting value is not the raw list of commits, but the pattern of what the project repeatedly invested in: publishing infrastructure, discoverability, monetization experiments, starter upgrades, and ongoing maintenance.
+## 한눈에 보는 요약
+이 노드는 단순한 배포 기록이 아니라, 개인 웹사이트를 오래 굴리면서 무엇에 반복적으로 시간을 썼는지 보여주는 운영 이력이다. 원본의 긴 커밋 목록을 따라가면 결국 몇 가지 축이 남는다. 공개 발행 환경 유지, 검색 노출과 유입 실험, 광고와 수익화 시도, Gatsby 생태계 대응, 그리고 계속되는 의존성 유지보수다.
 
-## Why this node matters
-- It acts as a time trace for the surrounding portfolio and blog ecosystem.
-- It shows what kinds of changes were frequent enough to become part of the project's identity.
-- It helps distinguish deliberate product direction from routine dependency churn.
+## 핵심 논지
+이 CHANGELOG의 장기 가치은 "무엇을 한 번 만들었는가"보다 "어떤 종류의 일이 계속 다시 생겼는가"에 있다. 이 프로젝트는 글을 올리는 공간이면서 동시에 프레임워크, 플러그인, 빌드, 배포, 검색, 광고 설정까지 함께 관리해야 하는 기술 시스템이었다. 따라서 이 노드는 기능 연혁보다, 개인 웹 실천이 어떤 유지비와 반복 판단 위에서 성립하는지 보여주는 루트 수준의 운영 노드로 읽는 편이 맞다.
 
-## Durable patterns visible in the log
+## 왜 이 노드가 중요한가
+- [[Portfolio]]와 함께 프로젝트의 기술적 자기 이해를 가장 직접적으로 보여주는 루트 노드다.
+- 블로그와 사이트 운영이 콘텐츠 생산만으로 끝나지 않고, 검색 노출, 수익화, 빌드 안정성, 생태계 대응을 함께 요구한다는 점을 드러낸다.
+- 이후 [[Communication/Blogging]], [[Meta/My_space]], [[Meta/About_Development]], [[Deep Knowledge/Web]] 같은 노드를 읽을 때, 실제 유지 비용과 운영 스타일을 해석하는 기준점이 된다.
 
-### 1. The project was built through steady incremental shipping
-Many entries are small updates rather than large named releases. That suggests an operating style based on continuous refinement instead of infrequent major rewrites.
+## 원본에서 먼저 잡히는 구조
 
-### 2. The site was treated as both personal space and technical system
-The changelog mixes content-facing changes with infrastructure and framework work:
-- SEO and sitemap additions
-- ad platform experiments
-- starter and theme adjustments
-- dependency and security updates
-- plugin and build fixes
+### 1. 큰 릴리스보다 잦은 소규모 갱신이 중심이다
+원본은 소수의 굵직한 발표보다 `update 20-10-26`, `UPDATE 21-02-07` 같은 짧은 갱신 기록이 훨씬 많이 보인다.
+- 작업 방식이 대형 개편 중심이 아니라 지속적 손질 중심이라는 뜻이다.
+- 사이트를 완성품보다 살아 있는 작업물로 다뤘다는 신호다.
+- 변경의 의미가 늘 사용자 기능 추가에만 있지 않고, 유지 가능성 확보에도 있었다.
 
-The site is therefore not just a publishing surface. It is also an environment for technical experimentation and upkeep.
+### 2. 콘텐츠 공간과 기술 시스템이 한 파일 안에 섞여 있다
+원본의 항목들은 성격이 제각각이다.
+- 검색, sitemap, SEO 추가
+- Adsense, Kakao adfit 같은 광고 실험
+- Gatsby starter, theme, plugin, dependency 갱신
+- 보안 패치와 빌드 관련 수정
+- 블로그 포스트, 레이아웃, 팝업, 404 페이지 등의 사용자 노출면 수정
 
-### 3. External platform drift is part of the maintenance burden
-A large share of the file comes from Gatsby ecosystem changes, dependency updates, and compatibility fixes. The durable lesson is that even a small personal site inherits continuous maintenance from its toolchain.
+이 혼합은 우연이 아니다. 저자에게 사이트는 단순 게시판이 아니라, 발행 실험과 개발 실험이 겹쳐 있는 운영 대상이었다.
 
-### 4. Visibility and monetization were active concerns
-Adsense, Kakao adfit, search, sitemap, and SEO all appear early. That suggests the project cared not only about writing and building, but about discoverability and possible economic leverage.
+## 원본에서 드러나는 지속 패턴
 
-## Useful structure hidden inside the noisy raw log
+### 1. 발행 자체보다 발행 환경 유지가 큰 비중을 차지한다
+글이나 화면에 직접 닿는 변경도 있지만, 원본의 큰 비중은 환경 유지에 있다.
+- Gatsby 버전 업
+- starter 및 plugin 정리
+- dependency 보안 패치
+- 호환성 수정
+- 빌드 안정화
 
-### Product-facing changes
-- content or site updates
-- layout or presentation adjustments
-- discoverability improvements such as search and sitemap
-- advertising or monetization experiments
+즉 이 노드는 "무엇을 만들었는가"의 기록이면서 동시에 "계속 굴리기 위해 무엇을 감당했는가"의 기록이다.
 
-### Platform-facing changes
-- Gatsby starter and theme upgrades
-- plugin fixes and compatibility work
-- package and security maintenance
-- build and deployment stability improvements
+### 2. 가시성과 유입은 초기에 중요한 관심사였다
+검색과 광고 관련 항목이 비교적 이르게 반복 등장한다.
+- sitemap
+- google custom search
+- SEO component
+- Adsense
+- Kakao adfit
 
-### Signal about working style
-The alternation between quick updates and ecosystem maintenance suggests a builder who is comfortable letting a personal site be both:
-- a live expression surface
-- a long-running technical artifact that needs care
+이는 프로젝트가 단순한 개인 메모장이 아니라, 발견되고 읽히며 경우에 따라 수익화될 수 있는 공개 공간으로 상상되었음을 보여준다.
 
-## Tensions worth preserving
-- personal expression vs framework dependency burden
-- shipping quickly vs keeping the stack current
-- experimentation vs maintenance drag
-- public-facing polish vs behind-the-scenes infrastructure work
+### 3. 생태계 드리프트를 감당하는 태도가 강하다
+원본에는 Gatsby monorepo 업데이트와 관련 dependency 수정이 압도적으로 많다.
+- 프레임워크를 쓰는 순간 생기는 외부 변화 비용을 회피하지 않았다.
+- 유지보수성은 별도의 프로젝트가 아니라 운영의 일부로 편입되어 있었다.
+- 작은 개인 사이트도 툴체인 위에 올라가면 지속적인 환경 변화에 노출된다는 사실이 선명하다.
 
-These tensions are important because the changelog is not just a list of tasks completed. It documents the cost of keeping a self-owned web presence alive.
+### 4. 수정은 누적되지만 방향은 몇 축으로 수렴한다
+긴 커밋 목록은 산만해 보이지만, 실제로는 몇 가지 질문으로 압축된다.
+- 사이트가 더 잘 발견되는가?
+- 광고나 외부 플랫폼 연동이 자연스럽게 붙는가?
+- 프레임워크 변화에도 사이트가 계속 동작하는가?
+- 빌드와 배포가 덜 깨지고 덜 귀찮아지는가?
 
-## Cleaning decisions in this mapped page
-- Converted a noisy release ledger into a clearer pattern summary while keeping the topic centered on the changelog itself.
-- Separated product-facing and platform-facing changes so the file becomes more legible as a category node.
-- Avoided reproducing long commit lists that are already preserved in the source note.
-- Kept the page within scope: this remains a note about project evolution history, not a full repository audit.
+이 반복 질문이 이 파일을 단순 커밋 보관함이 아니라 운영 철학의 흔적으로 만든다.
 
-## Future-relevant links
-- [[../Portfolio]]
-- [[../Meta/My_space]]
-- [[../Communication/Blogging]]
-- [[../Meta/About_Development]]
-- [[../blog/Note_Management]]
+## 해석을 돕는 재구성
 
-## Follow-up questions
-- Which changelog themes should be mirrored in a higher-level synthesis about the author's public web practice?
-- How much of the maintenance load came from framework choice versus actual product ambition?
-- Which entries represent meaningful strategy changes, and which are mostly ecosystem tax?
+### 제품·콘텐츠 표면에서의 변화
+- 검색성과 유입 개선
+- 광고 및 수익화 실험
+- 블로그/페이지 표현 수정
+- 사용자 노출면의 사소하지만 반복적인 정돈
+
+### 플랫폼·도구 체인에서의 변화
+- Gatsby 및 starter 업데이트
+- 플러그인 호환성 수정
+- dependency 및 보안 패치
+- 빌드, 배포, 설정 안정화
+
+### 작업 스타일 신호
+- 한 번의 대규모 재작성보다 작은 수정의 누적을 선호한다.
+- 문제를 방치하기보다 자주 손본다.
+- 공개 공간의 미세한 완성도와 기술 기반 유지보수를 분리하지 않는다.
+
+## 이 노드가 보여주는 숨은 작업 감각
+
+### 사이트를 "표현 공간 + 유지해야 할 시스템"으로 본다
+이 CHANGELOG에서 콘텐츠와 인프라가 분리되지 않는 이유는, 실제 운영에서 둘이 분리되지 않기 때문이다.
+- 글을 쓰는 일은 검색 노출, URL, sitemap, SEO와 연결된다.
+- 광고 실험은 레이아웃, 스크립트, 사용자 경험과 연결된다.
+- 프레임워크 업데이트는 결국 공개 발행 지속성과 연결된다.
+
+즉 개인 사이트 운영은 표현 행위이면서 시스템 유지 행위다.
+
+### 유지보수는 부차 업무가 아니라 정체성의 일부다
+원본을 보면 개선의 상당수는 눈에 띄는 신기능이 아니다.
+- 깨지는 부분을 줄인다.
+- 오래된 설정을 맞춘다.
+- 의존성 변화를 따라간다.
+- 검색성과 배포 품질을 손본다.
+
+이런 기록은 화려하진 않지만, "계속 운영하는 사람"의 리듬을 보여준다.
+
+## 보존해야 할 긴장
+- 개인 표현과 프레임워크 유지 비용 사이의 긴장
+- 빠른 발행과 장기 안정성 사이의 긴장
+- 수익화 실험과 사용자 경험 사이의 긴장
+- 가시성 확대와 운영 복잡도 증가 사이의 긴장
+- 작은 사이트 감각과 실제 툴체인 부담 사이의 긴장
+
+이 긴장을 남겨두는 것이 중요하다. 원본은 단순히 꾸준한 업데이트 기록이 아니라, 자기 소유의 웹 공간을 유지하는 데 드는 실제 비용과 우선순위를 보여주기 때문이다.
+
+## 이번 심화에서 강화한 점
+- 영어 중심의 얇은 패턴 요약을 한국어 기준의 루트 카테고리 페이지로 재구성했다.
+- 긴 커밋 목록을 그대로 복제하지 않고, 반복되는 운영 질문과 유지보수 축이 드러나도록 압축했다.
+- `Portfolio`와 연결되는 운영 감각, 즉 발행 환경 유지, 비용 감각, 공개 공간 운영성을 더 선명하게 드러냈다.
+- 검색, 광고, 프레임워크 유지보수, 사용자 노출면 수정이 한 프로젝트 안에서 어떻게 얽히는지 읽기 쉽게 정리했다.
+
+## 인접 노드 연결
+- [[Portfolio]]
+- [[Communication/Blogging]]
+- [[Meta/My_space]]
+- [[Meta/About_Development]]
+- [[Deep Knowledge/Web]]
+- [[Communication/Document]]
+- [[syntheses/Knowledge Lab Operating Thesis]]
+
+## 다음에 더 볼 질문
+- 이 CHANGELOG에서 가장 본질적인 축은 검색/광고 같은 외부 노출인가, 아니면 Gatsby 생태계 유지보수인가?
+- 개인 웹 운영에서 반복 유지보수 비용은 창작 의욕을 깎는가, 아니면 기술 정체성을 강화하는가?
+- 이 노드를 바탕으로 "자기 소유 웹 공간의 유지비" 같은 synthesis를 따로 만들 가치가 있는가?
