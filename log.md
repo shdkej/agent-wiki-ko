@@ -108,6 +108,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Document.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### AI 단일 노드 갱신
+- 갱신 범위: [[mapped/Deep Knowledge/AI]] 1개 페이지만 강하게 재구성했다.
+- 탐구: `AI`를 개념 요약이 아니라 LLM 이후의 작업 방식, 문서 기반 메모리, 에이전트 설계, 프롬프트 운영, 머신러닝 실무 감각이 한데 묶인 카테고리 노드로 읽히도록 정리했다.
+- 정리: 초안형 대응 문서를 핵심 논지, 개념 축, 에이전트 관점, AI 사용법, 문서 관리, 프롬프트 노하우, RAG와 컨텍스트 한계, ML·트랜스포머 기초, 제품 운영 관점 중심의 한국어 페이지로 바꿨다.
+- 선호 신호: 저자는 AI를 모델 성능 경쟁보다 문서, 기준, 검증, 운영 구조 안에 배치해야 제대로 쓸 수 있는 시스템으로 보는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/AI.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
