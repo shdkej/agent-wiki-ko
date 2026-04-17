@@ -190,6 +190,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Architecture.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Curiosity 단일 노드 갱신
+- 갱신 범위: [[mapped/Health/Curiosity]] 1개 페이지만 전면 재구성했다.
+- 탐구: `Curiosity`를 산만한 질문 목록이 아니라 기술, 기록, 학습, 제품화, 삶의 방향을 여는 장기 탐사 노드로 다시 읽히도록 정리했다.
+- 정리: 매우 얇은 초안형 대응 문서를 한국어 기준의 구조화된 페이지로 바꾸고, 원문의 방대한 질문들을 `운영`, `기록`, `학습`, `기술 실험`, `삶의 방향`의 반복 축으로 재배열했다.
+- 선호 신호: 저자는 호기심을 단순 취향 수집보다 작동 원리 탐색, 재사용 가능한 작업 구조 발견, 미래 결과물 후보 보존의 방식으로 다루는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Health/Curiosity.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Blogging 단일 노드 갱신
 - 갱신 범위: [[mapped/Communication/Blogging]] 1개 페이지만 전면 재구성했다.
 - 탐구: 블로깅을 글쓰기 팁 모음이 아니라 파편화된 메모를 만다라트 구조 안에서 축적하고, 충분히 숙성된 내용을 독자용 산출물로 꺼내는 지식 발행 시스템으로 읽히도록 정리했다.
