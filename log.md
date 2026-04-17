@@ -198,6 +198,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/blog/picasso.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Digital_Content 단일 노드 갱신
+- 갱신 범위: [[mapped/blog/Digital_Content]] 1개 페이지만 전면 재구성했다.
+- 탐구: 디지털 콘텐츠 소장을 단순 백업 팁이 아니라 소유 감각, 플랫폼 접근권, DRM, 서비스 종료, 구독 경제의 충돌 문제로 읽히도록 정리했다.
+- 정리: 34줄짜리 초안형 대응 문서를 한국어 기준의 구조화된 페이지로 바꾸고, 영화·전자책·음원·소프트웨어·랜섬웨어 메모를 하나의 판단 축 아래 재배열했다.
+- 선호 신호: 저자는 디지털 콘텐츠를 단순 소비재보다 애장품과 개인 자산에 가깝게 느끼며, 편리함보다 장기 보존 가능성과 자율적 소유 감각을 더 중요하게 보는 경향이 있다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/blog/Digital_Content.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
