@@ -84,6 +84,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Data_Structure.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Network 단일 노드 갱신
+- 갱신 범위: [[mapped/Fundamental/Network]] 1개 페이지만 강하게 재구성했다.
+- 탐구: 네트워크를 TCP/IP, HTTP, DNS, TLS, 로드밸런서, CDN의 목록이 아니라 "요청이 여러 경계를 통과하며 역할이 분리되는 시스템"으로 읽히도록 정리했다.
+- 정리: 초안형 대응 문서를 핵심 질문, 구조 재정리, 판단 축, 세부 해석, 숨은 패턴, 인접 노드 링크 중심의 한국어 페이지로 바꿨다.
+- 선호 신호: 저자는 네트워크를 프로토콜 암기보다 병목 위치, 책임 분배, 요청 흐름 추적, 앞단 계층 활용 같은 운영 감각으로 이해하려는 경향이 있다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Network.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
