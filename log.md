@@ -74,6 +74,16 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Exploration.md`가 최근 직접 갱신된 흔적은 없어 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행으로 공개 저장소 동기화를 진행했다.
 
+## 2026-04-17 | Fundamental 노드 점진 심화
+
+### Data_Structure 단일 노드 갱신
+- 갱신 범위: [[mapped/Fundamental/Data_Structure]] 1개 페이지만 전면 재구성했다.
+- 탐구: 자료구조를 개별 정의 목록이 아니라 선택 기준, 메모리 감각, 탐색 구조, 알고리즘 연결성으로 읽히도록 재정리했다.
+- 정리: 초안형 발췌를 핵심 논지, 선택 축, 구조별 해석, 알고리즘 접점, 숨은 패턴, 인접 노드 링크 중심의 한국어 문서로 바꿨다.
+- 선호 신호: 저자는 자료구조를 암기 대상보다 "언제 무엇을 왜 선택하는가"의 판단 문제로 다루며, 구현 세부보다 구조 감지 능력과 연산 비용의 차이를 중시하는 경향이 있다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Data_Structure.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
