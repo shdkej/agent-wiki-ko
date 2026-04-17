@@ -230,6 +230,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Meta/AGENTS.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Open_Source 단일 노드 갱신
+- 갱신 범위: [[mapped/Communication/Open_Source]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: `Open_Source`를 공개 찬반 메모가 아니라, 낯선 코드베이스 진입법, 라이선스 판단, 공개 전략, 버저닝, 발표까지 이어지는 협업 운영 노드로 읽히도록 정리했다.
+- 정리: 1차 대응 문서를 핵심 논지, 구조 재정리, 판단 축, 반복 패턴, 인접 노드 링크 중심의 한국어 페이지로 바꿨다.
+- 선호 신호: 저자는 오픈소스를 선행 문화보다 구조 읽기 훈련장과 협업 규칙 학습장으로 다루며, 큰 기여보다 작은 진입, 작성자 습관 이해, 사용자 관점 버저닝을 더 중시하는 경향이 있다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Open_Source.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
