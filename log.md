@@ -238,6 +238,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Open_Source.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Portfolio 단일 노드 추가 심화
+- 갱신 범위: [[mapped/Portfolio]] 1개 페이지만 점진 심화했다.
+- 탐구: 포트폴리오를 인프라 기술 목록보다, 여러 경계를 넘나들며 병목·비용·배포·백엔드 흐름을 함께 조정하는 시스템 설계자 노드로 더 분명하게 읽히도록 다듬었다.
+- 정리: 기존 baseline은 유지한 채 `역할 스펙트럼을 읽는 법` 섹션을 추가해, 인프라 엔지니어라는 표면 라벨과 실제 작업 범위 사이의 차이를 구조적으로 보이게 했다.
+- 선호 신호: 저자는 특정 기술 하나의 깊이만 강조하기보다, 인프라·애플리케이션·운영 인터페이스의 경계면을 함께 다루는 조정력과 흐름 재설계 능력을 더 중요한 강점 언어로 쓰는 경향이 있다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Portfolio.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
