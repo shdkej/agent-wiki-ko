@@ -222,6 +222,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/blog/Digital_Content.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### AGENTS 단일 노드 갱신
+- 갱신 범위: [[mapped/Meta/AGENTS]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: `AGENTS`를 단순한 모델 설정 메모가 아니라, 역할 분화와 공통 문서 기반 위에서 사람과 에이전트가 함께 일하는 메타 운영 노드로 읽히도록 정리했다.
+- 정리: 초안형 대응 문서를 핵심 논지, 역할 구조, 선행 문서군, 히스토리 문서, stateless 협업, PRD 모듈화, 도구층의 위치 중심의 한국어 페이지로 바꿨다.
+- 선호 신호: 저자는 에이전트를 결과 생성기보다 문서 기반 공동작업자로 다루며, 빠른 출력보다 공통 맥락, 추적 가능성, 복원 가능성, 고객 목소리 연결을 더 중요한 운영 기준으로 두는 경향이 있다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Meta/AGENTS.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
