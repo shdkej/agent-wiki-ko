@@ -190,6 +190,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Blogging.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### picasso 단일 노드 갱신
+- 갱신 범위: [[mapped/blog/picasso]] 1개 페이지만 강하게 재구성했다.
+- 탐구: `picasso`를 단순한 전시 감상문이 아니라, 사진기 이후 회화의 위기와 AI 이후 개발자·디자이너의 역할 재정의를 겹쳐 보는 카테고리 노드로 읽히도록 정리했다.
+- 정리: 27줄짜리 초안형 대응 문서를 한국어 기준의 구조화된 페이지로 바꾸고, 여행 경험, 큐비즘, 인간 전문성의 이동, 미해결 질문, 인접 노드 링크를 하나의 흐름으로 재배열했다.
+- 선호 신호: 저자는 기술 변화를 단순 위협이나 찬양으로 보지 않고, 기존 숙련의 기준이 무너진 뒤 인간이 어떤 새 역할을 발명해야 하는지에 더 관심이 많은 편으로 보인다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/blog/picasso.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
