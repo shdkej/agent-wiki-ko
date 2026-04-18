@@ -68,6 +68,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Product.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Troubleshooting 단일 노드 갱신
+- 갱신 범위: [[mapped/Meta/Troubleshooting]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: 트러블슈팅 메모를 잡다한 오류 사전이 아니라 `조건 단순화`, `상태 관측`, `리셋/복구`, `운영 재진입`이 반복되는 메타 운영 노드로 읽히도록 정리했다.
+- 정리: 얇은 1차 대응 문서를 한국어 기준의 구조화된 페이지로 바꾸고, 원문 전반을 `문제 해결 원칙`, `증상-상태-수정-재검증 루프`, `개발환경/런타임/인프라/시스템 복구 층위`, `Kubernetes 운영 장애 패턴`의 축으로 재배열했다.
+- 선호 신호: 저자는 문제 해결을 영감이나 요행보다 로그, 설정, 권한, 네트워크, 자원 상태를 차근히 확인하며 복구 가능한 상태로 되돌리는 작업으로 보는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Meta/Troubleshooting.md`는 파일 수정 시각 기준으로 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Software 단일 노드 갱신
 - 갱신 범위: [[mapped/Fundamental/Software]] 1개 페이지만 강하게 재구성했다.
 - 탐구: `Software`를 기술 메모 잡탕이 아니라 사람 중심의 메타도구, 변경 가능성, 운영 안정성, 문서화, 가치화가 함께 엮인 상위 카테고리 노드로 읽히도록 정리했다.
