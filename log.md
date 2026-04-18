@@ -51,6 +51,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Product.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Software 단일 노드 갱신
+- 갱신 범위: [[mapped/Fundamental/Software]] 1개 페이지만 강하게 재구성했다.
+- 탐구: `Software`를 기술 메모 잡탕이 아니라 사람 중심의 메타도구, 변경 가능성, 운영 안정성, 문서화, 가치화가 함께 엮인 상위 카테고리 노드로 읽히도록 정리했다.
+- 정리: 1차 대응 초안을 한국어 기준의 구조화된 페이지로 바꾸고, 원문 전반을 `사람-소프트웨어-사람`, 변경 친화성, 안정성, 저결합, 서비스 운영, 데이터 규모 대응, 무료/유료와 운영 지원 모델의 흐름으로 재배열했다.
+- 선호 신호: 저자는 소프트웨어를 기능 구현보다 변경 용이성, 복구 가능성, 가벼운 구조, 운영 투명성, 실제 사용자 가치와 연결되는 시스템으로 보는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Software.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-14 | Initial setup
 
 ### Workspace bootstrap
