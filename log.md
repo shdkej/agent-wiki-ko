@@ -341,6 +341,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Portfolio.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Monitoring 단일 노드 갱신
+- 갱신 범위: [[mapped/Deep Knowledge/Monitoring]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: `Monitoring`을 서버 상태 체크 목록이 아니라, 시스템·프로덕트·비즈니스·비용 신호를 함께 묶어 정상 상태와 이상 징후를 판단하는 피드백 루프 노드로 읽히게 정리했다.
+- 정리: 1차 대응 문서를 한국어 기준의 구조화된 페이지로 바꾸고, 원문의 산발적 메모를 `정상 상태 정의 → 계층별 지표 → observability → 알림 설계 → 도구/비용 고민` 흐름으로 재배열했다.
+- 선호 신호: 저자는 모니터링을 단순 인프라 관제보다 로그인·결제·전환·이탈까지 포함한 서비스 운영 감각으로 다루며, 평균값보다 꼬리 지표와 의미 있는 알림 설계를 더 중시하는 경향이 있다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Monitoring.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
