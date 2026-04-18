@@ -35,6 +35,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Meta/About_Architecture.md`는 파일 수정 시각 기준으로 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Teamwork 단일 노드 갱신
+- 갱신 범위: [[mapped/Communication/Teamwork]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: 팀워크 메모를 인간관계 팁 모음이 아니라 서비스 구조, 리더 역할, 맥락 전달, 실패 공유, 비동기 소통, 온보딩까지 포함한 `협업 운영 시스템` 카테고리 노드로 읽히도록 정리했다.
+- 정리: 1차 대응 초안을 한국어 기준의 구조화된 페이지로 바꾸고, 기능 조직과 목적 조직의 긴장, 리더의 완충 역할, 공개 기록의 중요성, 컨벤션과 문서화의 협업 의미를 하나의 판단 축 아래 재배열했다.
+- 선호 신호: 저자는 팀워크를 친화력보다 정보 비대칭 축소, 방향 제시, 성장 설계, 공개 문서화, 비동기 협업의 문제로 보는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Teamwork.md`는 파일 수정 시각 기준으로 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-14 | Initial setup
 
 ### Workspace bootstrap
