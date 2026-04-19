@@ -1,5 +1,5 @@
 - **Home**
-  - [소개](/)
+  - [소개](README.md)
   - [전체 인덱스](index.md)
   - [유지보수 로그](log.md)
 
@@ -7,6 +7,64 @@
   - [2026-04-19](diary/2026-04-19.md)
   - [2026-04-18](diary/2026-04-18.md)
   - [2026-04-17](diary/2026-04-17.md)
+
+- **Sources (카테고리 개요)**
+  - [Fundamental](sources/Fundamental.md)
+  - [Integration](sources/Integration.md)
+  - [Communication](sources/Communication.md)
+  - [Human](sources/Human.md)
+  - [Idea](sources/Idea.md)
+  - [Meta](sources/Meta.md)
+  - [Blog](sources/blog.md)
+
+- **Mapped (1:1 대응 노트)**
+  - [CHANGELOG](mapped/CHANGELOG.md)
+  - [Portfolio](mapped/Portfolio.md)
+  - Fundamental
+    - [Architecture](mapped/Fundamental/Architecture.md)
+    - [Coding](mapped/Fundamental/Coding.md)
+    - [Infra](mapped/Fundamental/Infra.md)
+    - [Software](mapped/Fundamental/Software.md)
+    - [Tool](mapped/Fundamental/Tool.md)
+  - Integration
+    - [Business](mapped/Integration/Business.md)
+    - [Creator](mapped/Integration/Creator.md)
+    - [Design](mapped/Integration/Design.md)
+    - [Marketing](mapped/Integration/Marketing.md)
+    - [Work](mapped/Integration/Work.md)
+  - Communication
+    - [Document](mapped/Communication/Document.md)
+    - [Feedback](mapped/Communication/Feedback.md)
+    - [Teamwork](mapped/Communication/Teamwork.md)
+    - [Talk](mapped/Communication/Talk.md)
+  - Human
+    - [Future](mapped/Human/Future.md)
+    - [Principle](mapped/Human/Principle.md)
+    - [Reality](mapped/Human/Reality.md)
+    - [Standard](mapped/Human/Standard.md)
+  - Idea
+    - [Reading](mapped/Idea/Reading.md)
+    - [Article](mapped/Idea/Article.md)
+    - [Journal](mapped/Idea/Journal.md)
+  - Meta
+    - [AGENTS](mapped/Meta/AGENTS.md)
+    - [Developer](mapped/Meta/Developer.md)
+    - [Troubleshooting](mapped/Meta/Troubleshooting.md)
+  - Deep Knowledge
+    - [AI](mapped/Deep%20Knowledge/AI.md)
+    - [Cloud](mapped/Deep%20Knowledge/Cloud.md)
+    - [Devops](mapped/Deep%20Knowledge/Devops.md)
+    - [Infra](mapped/Deep%20Knowledge/Infra.md)
+    - [Monitoring](mapped/Deep%20Knowledge/Monitoring.md)
+    - [Product](mapped/Deep%20Knowledge/Product.md)
+  - Health
+    - [Decision](mapped/Health/Decision.md)
+    - [Investment](mapped/Health/Investment.md)
+    - [Routine](mapped/Health/Routine.md)
+  - Blog
+    - [Life Tracking](mapped/blog/Life_Tracking.md)
+    - [My space](mapped/blog/My_space.md)
+    - [Note Management](mapped/blog/Note_Management.md)
 
 - **개념**
   - [Context over inventory](concepts/Context%20over%20inventory.md)
