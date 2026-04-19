@@ -113,6 +113,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Idea/Reading.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Infra 단일 노드 기준선 재구성
+- 갱신 범위: [[mapped/Deep Knowledge/Infra]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: `Infra`를 AWS 서비스 요약이 아니라, 규모별 인프라 증가, 서버리스 기본 선호와 한계, 네트워크/권한/비용 경계, 실제 운영 마찰을 함께 담는 카테고리 노드로 읽히도록 정리했다.
+- 정리: 얇은 1차 대응 문서를 한국어 기준의 구조화된 페이지로 바꾸고, 원문 전체를 `규모별 인프라`, `클라우드와 서버리스`, `AWS 운영 포인트`, `핸즈온/장애 메모`의 흐름으로 재배열했다.
+- 선호 신호: 저자는 인프라를 화려한 구성도보다 워크로드 적합성, 숨은 비용, 연결 경계, 복구 가능성을 함께 조정하는 운영 판단 문제로 다루는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Infra.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-18 | Meta 노드 점진 심화
 
 ### Portfolio 단일 노드 재심화
