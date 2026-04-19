@@ -496,6 +496,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Monitoring.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Design 단일 노드 갱신
+- 갱신 범위: [[mapped/Integration/Design]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: `Design`을 취향 메모나 UI 팁 모음이 아니라, 디자인 시스템, 접근성, 색/폰트, 웹 구현 감각이 함께 묶인 인터페이스 설계 카테고리 노드로 읽히도록 정리했다.
+- 정리: 얇은 1차 대응 문서를 한국어 기준의 구조화된 페이지로 바꾸고, 원문 전체를 `취향과 깊이감`, `위계와 뼈대`, `접근성`, `컬러/폰트`, `다크모드`, `웹 레이아웃 구현`의 축으로 재배열했다.
+- 선호 신호: 저자는 디자인을 유행 스타일보다 일관된 톤, 절제된 기본색 위의 깊이감, 접근성, 실제 웹 구현 감각을 함께 다루는 시스템 문제로 보는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Design.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
