@@ -1,6 +1,6 @@
 # 지식 랩 로그
 
-## 2026-04-20 | Root 노드 점진 심화
+## 2026-04-20 | Root · blog 노드 점진 심화
 
 ### CHANGELOG 단일 노드 재심화
 - 갱신 범위: [[mapped/CHANGELOG]] 1개 페이지만 점진 심화했다.
@@ -8,6 +8,14 @@
 - 정리: 기존 baseline은 유지한 채 `시간 흐름 자체가 말해 주는 운영 리듬`을 추가해, 공개 발행면 확장과 도구 체인 유지가 어느 시기에 전면으로 올라오는지 읽는 기준을 보강했다.
 - 선호 신호: 저자는 changelog를 기능 홍보보다 운영 리듬과 유지 비용의 흔적으로 읽는 쪽이 더 잘 맞으며, 특히 시간 축에서 반복 압력이 어떻게 몰리는지 보는 해석이 유효하다.
 - 드리프트 점검: 대응 원본 `source/shdkej-content/CHANGELOG.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
+### Decision_Monitor_Size 단일 노드 기준선 재구성
+- 갱신 범위: [[mapped/blog/Decision_Monitor_Size]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: `Decision_Monitor_Size`를 단순 노트북 구매 고민이 아니라, 이동성·단독 작업성·다중 화면·자세 문제를 함께 조율하는 작업 환경 설계 노드로 읽히도록 정리했다.
+- 정리: 1차 대응 초안을 한국어 기준의 구조화된 페이지로 바꾸고, 원문 전체를 `기본 가설`, `작업 조건`, `13/15/17 비교`, `단일 화면 vs 다중 화면`, `거치 구조`, `조합 실험`의 흐름으로 재배열했다.
+- 선호 신호: 저자는 하드웨어 스펙 자체보다 답답함 감소, 셋업 간편성, 자세 여유, 화면 분리 같은 체감 작업 조건을 더 중요한 판단 기준으로 두는 경향이 있다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/blog/Decision_Monitor_Size.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
 ## 2026-04-19 | Communication · Meta · Root · Fundamental 노드 점진 심화
