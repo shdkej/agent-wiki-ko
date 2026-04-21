@@ -1,5 +1,15 @@
 # 지식 랩 로그
 
+## 2026-04-21 | Root · Human · Health · Integration · Idea 노드 점진 심화
+
+### CHANGELOG 단일 노드 재심화
+- 갱신 범위: [[mapped/CHANGELOG]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 파일이 사건별 상세 회고보다 `성긴 기록이 누적되며 드러나는 운영 성향`을 보여주는 루트 카테고리 노드라는 점을 더 선명하게 정리했다.
+- 정리: 기존 baseline은 유지한 채 `작성자 기록과 독자 해석이 어긋나는 지점`을 추가하고, 말미의 장황한 심화 메모를 압축해 핵심 해석 축이 더 빨리 드러나도록 다듬었다.
+- 선호 신호: 저자는 changelog에서도 개별 항목의 완결성보다, 반복 분포와 기록 습관이 남기는 운영 감각을 읽는 쪽이 더 잘 맞는다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/CHANGELOG.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-21 | Human · Health · Integration · Idea 노드 점진 심화
 
 ### Evolve 단일 노드 기준선 재구성
