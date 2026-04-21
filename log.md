@@ -631,6 +631,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Health/Food.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Investment 단일 노드 기준선 재구성
+- 갱신 범위: [[mapped/Health/Investment]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: `Investment`를 종목 메모가 아니라, 환율 불안·세후 장기투자·절세·주거 선택·가족 이벤트 재무가 한 장부 안에서 충돌하는 생활형 자본 운영 카테고리 노드로 읽히도록 정리했다.
+- 정리: 매우 얇은 1차 대응 초안을 한국어 기준의 구조화된 페이지로 바꾸고, 원문 전체를 `거시 불안`, `세후 장기투자`, `절세와 제도 활용`, `주거 선택`, `가족 이벤트 재무`, `방어적 시뮬레이션`의 축으로 재배열했다.
+- 선호 신호: 저자는 투자를 고수익 추격보다 세후 기준, 대출 조건, 무주택 규정, 월 현금흐름, 최악 시나리오 관리가 함께 들어가는 생활 전체의 자산 설계로 보는 경향이 강하며, 완결된 정답표보다 질문과 계산 흔적을 남기는 편이 더 잘 맞는다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Health/Investment.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
