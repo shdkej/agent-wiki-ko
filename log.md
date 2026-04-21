@@ -26,6 +26,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Idea/Travel.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Integration/Exploration 단일 노드 재심화
+- 갱신 범위: [[mapped/Integration/Exploration]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 단순 검색 팁 모음이 아니라 `질문 설정`, `연구와 개발의 평행 구조`, `공부법`, `지식 공유와 인수인계`까지 포함한 탐구 운영 카테고리라는 점을 더 선명하게 정리했다.
+- 정리: 기존 baseline은 유지한 채 `질문의 질`, `연구 메모의 일반 작업 비유`, `찾기-소화하기-전달하기`의 흐름을 보강하고, `Creator`, `Logical_Thinking` 등 인접 노드와의 연결을 추가했다.
+- 선호 신호: 저자는 탐구를 정답 수집보다 다음번에도 재사용 가능한 질문 문법과 검색 경로를 남기는 작업으로 보는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Exploration.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-20 | Root · blog · Integration 노드 점진 심화
 
 ### Integration/Creator 단일 노드 기준선 재구성
