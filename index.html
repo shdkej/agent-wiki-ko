@@ -66,9 +66,14 @@
       repo: 'shdkej/agent-wiki',
       homepage: 'index.md',
       loadSidebar: true,
+      loadNavbar: false,
       subMaxLevel: 3,
       auto2top: true,
       relativePath: true,
+      routerMode: 'hash',
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
       search: {
         placeholder: '검색...',
         noData: '결과 없음',
