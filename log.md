@@ -603,6 +603,16 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Design.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+## 2026-04-21 | Integration 노드 점진 심화
+
+### Economics 단일 노드 기준선 재구성
+- 갱신 범위: [[mapped/Integration/Economics]] 1개 페이지만 기준선 수준으로 전면 재구성했다.
+- 탐구: `Economics`를 거시경제 이론 요약이 아니라 경기 국면 판단, 직장인 세금과 공제, 청약과 주거 선택, 기업 읽기와 장기 투자 태도를 함께 묶는 생활 경제 카테고리 노드로 읽히도록 정리했다.
+- 정리: 매우 얇은 1차 대응 초안을 한국어 기준의 구조화된 페이지로 바꾸고, 원문 전체를 `경기 국면`, `세금과 공제`, `청약과 주거`, `기업 평가`, `세후 투자`, `불확실성 관리`의 축으로 재배열했다.
+- 선호 신호: 저자는 경제를 공격적 수익 극대화보다 제도 이해, 세금 누수 방어, 잘 아는 분야 중심의 투자, 주거 선택권 관리 같은 생활형 판단 문제로 다루는 경향이 강하며, 시장 불안을 감춘 완결형 정답보다 실제 망설임과 질문을 남기는 편이 더 잘 맞는다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Economics.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## Current To-Dos / Follow-Up Directions
 - [ ] Deepen mapped pages category by category
 - [ ] Compare user-updated notes against mapped pages via `human-reviews/`
