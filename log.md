@@ -679,6 +679,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Idea/Information.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Work 단일 노드 재심화
+- 갱신 범위: [[mapped/Integration/Work]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 개인 생산성 메모보다 `신뢰 가능한 실행`, `보고와 도움 요청`, `업무일지 기반 복기`, `프로와 전문가의 차이`를 함께 다루는 업무 운영 카테고리 노드라는 점을 더 선명하게 정리했다.
+- 정리: 기존 baseline은 유지한 채 `보고/도움 요청의 문법`, `Work Log를 판단 로그로 읽는 기준`, `일 못하는 사람`의 반대편에서 드러나는 좋은 일의 기준을 추가하고, 프로페셔널함을 완벽주의와 구분해 보강했다.
+- 선호 신호: 저자는 일을 오래 버티는 성실성보다 신뢰 가능한 전달, 애매한 요구의 구체화, 반복 가능한 검토, 의사결정 맥락이 남는 기록 구조로 이해하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Work.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-21 | Health 노드 점진 심화
 
 ### blog/Note_Management 단일 노드 기준선 재구성
