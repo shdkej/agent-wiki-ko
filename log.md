@@ -1,6 +1,6 @@
 # 지식 랩 로그
 
-## 2026-04-22 | Human · Fundamental 노드 점진 심화
+## 2026-04-22 | Human · Fundamental · Integration 노드 점진 심화
 
 ### Human/Balance 단일 노드 재심화
 - 갱신 범위: [[mapped/Human/Balance]] 1개 페이지만 점진 심화했다.
@@ -8,6 +8,14 @@
 - 정리: 기존 baseline은 유지한 채 `Human/Evolve`와의 차이를 분리하고, 길게 흩어진 대비쌍을 읽는 실전 판단 프레임을 추가해 대립쌍 수집이 우유부단함이 아니라 선택 감각 훈련이라는 점이 더 빨리 드러나게 다듬었다.
 - 선호 신호: 저자는 균형을 애매한 타협보다 한쪽 가치에 붙잡혀 왜곡되지 않기 위한 조정 기술로 보며, 적응이 미덕인지 마모인지 끝까지 구분하려는 경향이 강하다.
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Human/Balance.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
+### Integration/Tool 단일 노드 재심화
+- 갱신 범위: [[mapped/Integration/Tool]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 단순한 도구 추천 목록이 아니라 `개인 인터페이스`, `검색과 조합`, `협업 서비스`, `원격 운영`, `재설치 가능 환경`, `시스템 조합 실험`이 겹쳐 있는 통합 운영 카테고리라는 점을 더 선명하게 정리했다.
+- 정리: 기존 baseline은 유지한 채 `블로그 소프트웨어 탑 텐`의 8개 층을 작업 표면 구조로 다시 읽고, Tailscale·OpenClaw 메모를 새 도구의 실제 편입 문턱으로 해석했으며, 서비스 목록과 Linux/Git/ETC 확장을 하나의 `개인 운영체제` 흐름으로 더 촘촘히 묶었다.
+- 선호 신호: 저자는 툴을 기능 수집보다 검색성, 단축, 원격 접근, 관측 가능성, 권한·인증·복구 순서가 살아 있는 운영 표면으로 다루는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Tool.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
 ## 2026-04-22 | Fundamental 노드 점진 심화
