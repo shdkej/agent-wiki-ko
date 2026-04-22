@@ -1,99 +1,149 @@
 # Principle
 
 - 원본: `source/shdkej-content/Human/Principle.md`
-- Status: deepened mapped note
-- 역할: 원본 만다라트 노드와 1:1 대응하는 관리 노트
+- 상태: 점진 심화
+- 역할: 원본 만다라트 노드와 1:1 대응하는 Human 카테고리 관리 노트
 
 ## 핵심 주장
-This note is a compact self-governing charter. It combines desired traits, favored working patterns, and practical rules for living so that growth stays intentional rather than reactive. The emphasis is not on abstract morality alone, but on building a way of operating.
+이 노드는 추상적 인생 교훈 모음이 아니다. 키우고 싶은 성질, 좋아하는 작업 방식, 실제 행동 방침이 한데 모여 있어 `어떤 사람이 되고 싶은가`와 `어떻게 살아가고 일할 것인가`를 동시에 조율하는 자기 운영 헌장에 가깝다. 핵심은 옳은 말을 수집하는 데 있지 않고, 삶이 끌려가지 않도록 스스로의 방향과 리듬을 만드는 데 있다.
 
-## What this node is organizing
-The source clusters three layers together:
-- capacities to cultivate
-- patterns and styles the author trusts
-- operating rules for daily life and work
+## 이 노드가 실제로 묶고 있는 것
+원문은 짧지만 세 층을 겹쳐 놓고 있다.
 
-That combination makes this page less like a belief list and more like a personal control system.
+- 키워야 할 능력과 태도
+- 좋아하는 사고·작업 방식
+- 매일의 행동 방침과 생활 규칙
 
-## Desired qualities to cultivate
-The opening traits suggest a broad ideal of adulthood:
-- spaciousness and curiosity
-- love, humor, and courage
-- expressive honesty
-- active rather than passive engagement
+그래서 `Principle`은 가치 선언문이면서 동시에 일상 운영 매뉴얼이다. 성격, 일 방식, 삶의 자세가 따로 떨어져 있지 않고 하나의 시스템으로 붙어 있다.
 
-A useful pattern here is that these are not purely inner virtues. Most of them are relational and visible in action.
+## 먼저 눈에 띄는 지향
 
-## Preferred operating style
-The note repeatedly favors:
-- immersion with periodic editing and re-organization
-- balance instead of one-track intensity
-- brevity without shallowness
-- feedback loops and recurrence
-- flexibility, observation, and whole-picture thinking
+### 1. 사람이 먼저 넓어져야 한다
+첫 줄의 `여유, 관심, 사랑, 유머, 용기, 표현력, 솔직함, 적극성`은 성과 기술보다 사람의 상태를 먼저 세운다.
 
-This creates a style that is both structured and adaptive. It values clarity, but not rigidity.
+- 여유가 있어야 주변과 맥락을 본다.
+- 관심과 사랑이 있어야 관계와 세계가 납작해지지 않는다.
+- 용기와 솔직함이 있어야 자기 삶을 스스로 끌고 갈 수 있다.
+- 표현력과 적극성이 있어야 안쪽의 생각이 바깥의 행동으로 이어진다.
 
-## Durable principles
+즉 이 노드의 성장론은 스펙 강화보다 삶을 더 넓고 선명하게 다룰 수 있는 인간적 상태를 만드는 쪽에 가깝다.
 
-### 1. Life should expand agency
-Several lines point to the same goal: enlarge the circle of what can be imagined, chosen, and carried out.
-- become a producer, not only a consumer
-- lead life rather than being dragged by it
-- define starting points and end points before beginning
-- create small adventures inside work
+### 2. 좋아하는 방식도 이미 하나의 철학이다
+원문이 좋아한다고 적어 둔 `몰입, 편집, 정리, 밸런스, 간결, 변증법, 전체, 하루, 피드백, 순환, 유연함, 관찰`은 취향 목록처럼 보이지만 사실은 반복적으로 선호하는 사고 문법이다.
 
-### 2. Curiosity should become a daily operating force
-The note prefers instinctive curiosity over dutiful study. This matters because curiosity creates sustainable energy, while obligation alone eventually thins out.
+이 문법은 대체로 다음 성향을 드러낸다.
+- 깊게 들어가되 다시 편집하고 정리한다.
+- 부분보다 전체 흐름을 본다.
+- 하루 단위의 생활과 장기 방향을 함께 본다.
+- 한 번 끝내기보다 피드백과 순환을 중시한다.
+- 단순함을 좋아하지만 경직성은 원하지 않는다.
 
-### 3. Margin is necessary for perception
-The call for "여유" is not laziness. It is a practical requirement for noticing context, caring about surroundings, and making better judgments between tasks.
+즉 저자는 강한 구조를 좋아하지만, 그 구조가 살아 움직이며 다시 조정될 수 있어야 한다고 본다.
 
-### 4. Build through collection, sorting, and output
-A central working pattern appears here:
-- gather widely
-- classify and shape
-- turn the material into one output
-- observe the result through feedback loops
+## 오래 남길 원칙 축
 
-This is a durable knowledge-work method, not just a note-taking preference.
+### 1. 삶의 주도권을 키우는 방향으로 살아야 한다
+행동방침 표에는 같은 뜻의 문장이 반복된다.
 
-### 5. Keep only what can be responsibly held
-"Have only as much as I can control" links this note to [[../../mapped/Human/Balance]]. It suggests that focus, ownership, and scope should match actual capacity.
+- 꿈꾸는 영역을 넓혀야 한다.
+- 생산자가 되어야 한다.
+- 시작점과 끝점을 정의하고 시작해야 한다.
+- 삶은 끌려가지 말고 스스로 이끌어가야 한다.
+- 주도적이고 능동적으로 판단해야 한다.
 
-## 숨은 패턴s
+이 노드에서 원칙은 착하게 사는 법보다 `내 삶을 내가 설계하고 움직일 수 있는가`에 더 가깝다. 주도권이 줄어드는 상태를 본능적으로 경계하는 노드다.
 
-### Self-authorship over drift
-Many bullet points resist passivity, vague wandering, or externally imposed shape. The note wants a life designed from the inside, while still remaining open to feedback and change.
+### 2. 호기심은 공부법이 아니라 생활 엔진이어야 한다
+`공부가 아니라 본능적인 호기심을 채우는 일상`이라는 문장은 특히 중요하다. 여기서 호기심은 취미가 아니라 지속 가능한 에너지의 원천이다.
 
-### Sharpness without harshness
-The line about becoming clearer without becoming cutting is important. It signals a preference for discernment that does not turn into cruelty, defensiveness, or ego display.
+- 관심이 있어야 일을 맡고 깊이 들어갈 수 있다.
+- 억지 의무만으로는 오래 버티기 어렵다.
+- 배운 것을 활용까지 가져가야 지식이 살아남는다.
 
-### Breadth through structured integration
-The note likes MECE thinking, context, decomposition, and workflow. But these are not celebrated as sterile optimization. They are tools for making life and work more intentional and coherent.
+즉 이 노드는 지식을 쌓는 것보다 `호기심 → 몰입 → 활용`으로 이어지는 흐름을 더 중요하게 본다.
 
-## Tensions worth preserving
-- curiosity vs obligation
-- structure vs spontaneity
-- minimalism vs sufficient support
-- strong direction vs flexible adjustment
-- analytical sharpness vs humane softness
+### 3. 여유는 사치가 아니라 판단 조건이다
+원문은 여유시간을 아주 실용적으로 다룬다.
 
-These tensions should remain visible because they are part of the author's style, not problems to erase.
+- 업무가 많지 않아도 주변을 신경 쓸 여유가 없을 수 있다.
+- 업무와 업무 사이에 틈이 있어야 한다.
+- 막연한 일탈은 몸을 움직이지 못하게 한다.
+- 하나씩 나아가야 실제로 움직일 수 있다.
 
-## Cleaning decisions in this mapped page
-- Reorganized the raw list format into a clearer three-layer structure: qualities, operating style, and principles.
-- Preserved the note's compactness while making the implicit system more visible.
-- Connected recurring ideas to neighboring Human-category nodes instead of letting them stay isolated slogans.
-- Kept the page within topic bounds: this is still a principle note, not a biography or productivity manual.
+이때 여유는 게으름이 아니라 관찰과 회복과 선택을 가능하게 하는 운영 조건이다. 바쁨 자체보다 `늘 쫓기는 상태`를 더 위험하게 보는 감각이 드러난다.
 
-## Future-relevant links
+### 4. 모으고 분류하고 출력하는 방식이 모든 일의 기본 문법이다
+원문에서 가장 강한 작업 원리 중 하나는 이것이다.
+
+- 많이 쌓아 놓는다.
+- 그것을 분류한다.
+- 하나의 아웃풋으로 만든다.
+- 지표를 보고 피드백 루프를 만든다.
+
+이는 단순한 메모 습관이 아니라 거의 모든 일에 적용하고 싶은 제작 철학이다. 수집에서 끝나지 않고, 구조화와 출력, 측정과 재조정까지 이어져야 일이 완성된다고 본다.
+
+### 5. 감당 가능한 범위만 가져야 선명함이 유지된다
+`내가 컨트롤 할 수 있는 만큼만 갖는다`와 `선명해져야 된다 날카로워지면 안 된다`는 문장은 함께 읽는 편이 좋다.
+
+- 범위를 과도하게 넓히면 삶이 흩어진다.
+- 선명함은 필요하지만 공격성과 경직성으로 변하면 안 된다.
+- 통제 가능한 범위 안에서 더 또렷해지는 것이 목표다.
+
+이 감각은 [[../../mapped/Human/Balance]]와 맞닿는다. 다만 `Balance`가 충돌하는 가치 사이의 조정 감각을 다룬다면, `Principle`은 무엇을 기준으로 자기 범위와 태도를 세울지에 더 가깝다.
+
+## 반복되는 운영 패턴
+
+### 생산자 지향
+이 노드는 소비보다 생산 쪽으로 기운다. 콘텐츠를 만들고, 배운 것을 활용하고, 아웃풋으로 남기고, 삶에 마이크로어드벤처를 만들고 싶어 한다. 이는 단순한 성취욕보다 `살아 있는 흔적을 남기고 싶다`는 방향감각으로 읽힌다.
+
+### 관계와 표현도 훈련 대상이다
+대화를 계속 연습해야 한다는 문장은 중요하다. 저자는 사고력이나 구조화만이 아니라, 사람을 만나고 말하고 표현하는 능력도 의식적으로 길러야 한다고 본다. 원칙이 혼자만의 내면 규율에 머물지 않고 관계 능력까지 포함한다.
+
+### 구조와 유연함을 동시에 원한다
+시작점과 끝점을 정의하고 싶어 하면서도, 변증법·피드백·순환·유연함을 좋아한다. 즉 계획만 세우는 사람도 아니고 즉흥만 믿는 사람도 아니다. 구조를 만들되 그것이 살아서 다시 바뀌는 상태를 선호한다.
+
+### 강해지되 거칠어지고 싶지는 않다
+`선명해져야 된다 날카로워지면 안 된다`는 짧지만 이 노드의 윤리를 잘 보여준다. 분별력, 기준, 주도성은 원하지만 그것이 냉소, 공격성, 자만으로 바뀌는 것은 원하지 않는다. 명료함과 인간다움을 동시에 잡고 싶은 노드다.
+
+## 이 노드에서 특히 보존해야 할 긴장
+
+### 호기심 vs 책임
+좋아하는 일만 맡을 수는 없다고 적어 두었기 때문에, 이 노드는 순수한 취향주의가 아니다. 책임을 감당해야 하지만, 완전히 무관심한 상태로는 오래 갈 수 없다는 현실적 긴장이 있다.
+
+### 구조화 vs 생동감
+정리, 분류, 시작점/끝점 설정을 좋아하지만 삶을 지나치게 고정하고 싶어 하지는 않는다. 피드백, 순환, 유연함, 마이크로어드벤처가 함께 적혀 있는 이유다.
+
+### 선명함 vs 날카로움
+분별력은 키워야 하지만 사람을 베는 방식의 날카로움은 피하고 싶어 한다. 이는 이 노드가 효율 지상주의나 냉정한 자기계발 문서로 평탄화되면 안 되는 이유다.
+
+### 몰입 vs 여유
+깊게 몰입하고 싶어 하지만, 틈이 없는 몰입은 주변을 못 보게 만든다는 것도 안다. 이 노드는 성과보다 `몰입 가능한 상태`를 지키는 조건까지 함께 본다.
+
+## 이 노드에서 읽히는 실전 프레임
+원문 전체를 한 줄기 운영 문법으로 압축하면 다음과 같다.
+
+1. 먼저 어떤 사람이 되고 싶은지 상태를 정한다.
+2. 그다음 어떤 방식으로 일하고 생각할지 작업 문법을 고른다.
+3. 그 문법이 하루의 행동으로 이어지게 작은 규칙을 만든다.
+4. 쌓고, 분류하고, 출력하고, 피드백한다.
+5. 과부하와 수동성으로 끌려가지 않도록 범위와 여유를 다시 조정한다.
+
+이 프레임 덕분에 `Principle`은 명언 모음이 아니라, 삶과 일과 성장을 하나의 루프로 묶는 자기 운영 노드로 읽힌다.
+
+## 이번 심화에서 더 선명해진 점
+- 영어 중심의 기존 설명을 한국어 기준으로 다시 묶어, 원문의 정서와 생활 감각이 더 직접 드러나게 했다.
+- `키우고 싶은 성질`, `좋아하는 사고 방식`, `행동 방침`을 세 층으로 구분해 이 노드가 단순 가치 선언이 아니라 운영 헌장이라는 점을 더 분명히 했다.
+- `호기심`, `여유`, `생산자 지향`, `모으기-분류-출력-피드백`의 축을 핵심 원리로 끌어올려 다른 노드와 연결 가능한 재사용 프레임을 만들었다.
+- [[../../mapped/Human/Balance]]와의 차이를 분리해, 이 페이지는 대립쌍의 조정보다 자기 삶의 기본 태도와 작업 문법을 세우는 쪽에 더 가깝다는 점을 보강했다.
+
+## 연결 노드
 - [[../../mapped/Human/Balance]]
-- [[../../mapped/Human/Reality]]
 - [[../../mapped/Human/Future]]
+- [[../../mapped/Human/Reality]]
 - [[../../mapped/Human/Readability]]
+- [[../../mapped/Integration/Work]]
 
-## Follow-up questions
-- Which of these principles are identity-level, and which are situational tactics?
-- What kinds of work most naturally fit the gather, sort, output, feedback loop described here?
-- Where does the author want more margin, and where do they actually over-pack life or scope?
+## 남겨둘 질문
+- 이 노드의 원칙 중 시간이 지나도 거의 안 바뀔 핵심은 무엇이고, 상황에 따라 바뀌는 운영 규칙은 무엇인가?
+- `생산자`가 된다는 말은 이 저자에게 글쓰기, 시스템 만들기, 관계 만들기 중 어디에서 가장 강하게 실현되는가?
+- 여유를 확보하기 위해 실제로 줄여야 할 것은 일정, 소유, 관계, 기대 중 무엇인가?
