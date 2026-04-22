@@ -1,108 +1,119 @@
 # Future
 
 - 원본: `source/shdkej-content/Human/Future.md`
-- Source note updated: `2025-07-23`
-- Status: deepened mapped note
-- 역할: 원본 만다라트 노드와 1:1 대응하는 관리 노트
+- 원본 최종 수정: `2025-07-23`
+- 상태: 점진 심화
+- 역할: 원본 만다라트의 `Human > Future` 카테고리 노드와 1:1 대응하는 관리 노트
 
-## 주제 보존
-This node is about how to face the future without becoming trapped by rigid prediction. It keeps the original note's scope: goals, plans, time, aging, parenting, preparation, and the tension between present joy and long-term direction.
+## 핵심 논지
+이 노드에서 미래는 맞혀야 하는 예측 대상이 아니라, 지금의 삶을 너무 마르지 않게 유지하면서도 다음 선택지를 가능하게 만드는 준비의 문제다. 목표, 계획, 시간, 노년, 부모 역할, 기술 발전, 죽음까지 넓게 흩어져 있지만, 실제 중심은 하나다. `어떻게 현재를 잃지 않으면서도 나중의 삶이 더 살아 있게 만들 것인가`.
 
-## Node thesis
-The note treats the future less as something to forecast and more as something to prepare for. Good preparation means building a life that stays flexible, accumulates capability, and can still respond well when reality breaks the plan.
+## 이 노드가 반복해서 붙드는 질문
+- 현재의 재미와 미래 준비의 비중을 어떻게 가져갈 것인가.
+- 큰 비전은 유지하되 실제 실행은 어떻게 작은 단위로 끊을 것인가.
+- 오래 사는 것과 잘 사는 것을 어떻게 구분할 것인가.
+- 계획은 세우되 계획에 끌려다니지 않으려면 무엇이 필요한가.
+- 다음 세대와 아이에게 무엇을 남기고 어떻게 영향을 줄 것인가.
+- 기술과 사회의 미래를 구경하는 사람으로 남을 것인지, 조금이라도 더 나은 방향을 만드는 사람으로 살 것인지.
 
-## Core tensions
+## 카테고리 노드로 다시 읽은 구조
 
-### 1. Present enjoyment vs future preparation
-- Living only for the future can make the present thin.
-- Living only for present pleasure weakens the ability to build durable options.
-- The note keeps returning to balance rather than sacrifice in one direction.
+### 1. 미래는 예측보다 가능화의 문제다
+생택쥐베리 메모, `예측은 늘 빗나간다`, `미래를 위해서는 예측하지 말고 가능하게 해야 한다` 같은 문장이 이 노드의 중심축이다. 미래를 잘 안다는 환상보다, 변화가 와도 덜 무너지게 만드는 구조를 마련하는 쪽에 더 무게가 실려 있다. 그래서 여기서 중요한 것은 정답 계획이 아니라, 다시 움직일 수 있는 상태다.
 
-### 2. Vision vs executable action
-- Big visions are emotionally powerful.
-- Abstract plans often do not execute.
-- Small units, repeated passes, and layered progress are treated as the practical bridge.
+### 2. 큰 비전은 필요하지만 실행은 작아야 한다
+원문은 독립운동가, 출판, 생산 수단, 노후 파이프라인, 기술 발전, 유토피아처럼 큰 스케일의 미래 상상을 자주 꺼낸다. 하지만 동시에 독일 생활, 구직 실패, 포트폴리오 정체 경험을 통해 추상적인 계획이 실제로는 잘 움직이지 않는다는 점도 거듭 확인한다. 이 노드가 내놓는 실전 해답은 `큰 방향 + 작은 실행 단위 + 반복적인 재조정`이다.
 
-### 3. Stability vs openness to change
-- A milestone helps movement.
-- Overcommitting to one fixed answer creates brittleness.
-- The author wants direction without becoming imprisoned by a single plan.
+### 3. 미래 준비는 젊음을 전부 저당 잡히는 일이 되어선 안 된다
+노후를 위해 젊음을 포기하는 것은 별로라는 문장, 현재의 재미를 놓치고 미래의 재미만 준비하는 것이 합리적인가라는 질문이 중요하다. 이 노드는 금욕적 자기계발 문서가 아니다. 오히려 미래를 준비하더라도 지금의 즐거움, 호기심, 생활의 밀도를 완전히 잃지 않아야 한다는 반발이 강하다.
 
-### 4. Long life vs meaningful life
-- Longevity matters, but only if health, curiosity, relationships, and agency remain.
-- Retirement is framed as a design problem, not merely a financial one.
+### 4. 노년은 쉬는 시간이 아니라 다른 방식의 생산과 재미의 시기다
+60세 이후의 삶, 은퇴 이후의 즐거움, 책쓰기, 연구, 후학양성, 가족, 악기, 개발, 글쓰기 같은 항목은 노년을 단순 휴식이나 쇠퇴로 보지 않는 시선을 드러낸다. 이 노드에서 오래 삶은 의미를 가지려면 건강, 재미, 관계, 자율성, 생산 수단이 함께 남아 있어야 한다. 즉 수명 연장은 목적이 아니라 `살아 있는 상태의 연장`이어야 한다.
 
-## 오래 남길 아이디어 worth preserving
-- Start from small units.
-- Solve problems dialectically, not one-sidedly.
-- Raise quality while organizing, not only after the fact.
-- Sweep the whole field repeatedly instead of finishing one part in total isolation.
-- Do not predict the future, make it possible.
-- Simplicity is often achieved by subtraction.
-- A future-facing life should keep producing options, not only consuming them.
-- Planning should create movement, not paralysis.
-- Preparation becomes more useful when it compounds into reusable structure, notes, pipelines, habits, or skills.
+### 5. 부모 역할과 다음 세대 고민도 미래 설계의 일부다
+아이에게 선택하게 하기, 생각을 물어보기, 상상력과 거짓말을 구분해 주기, 저작권 교육, 책 읽는 환경 만들기 같은 메모들은 미래를 개인 커리어 문제로만 보지 않는다는 증거다. 미래는 나 혼자 잘 사는 문제가 아니라, 다음 사람의 자율성과 감각을 어떻게 키울지의 문제이기도 하다.
 
-## Planning model emerging from the note
+### 6. 이 노드는 답안지가 아니라 살아 있는 질문 보관소다
+유토피아, 죽음, 일과 삶의 블렌딩, 기술 발전을 바라보는 태도, 개인적 유토피아의 가능성 같은 부분은 결론보다 질문의 힘이 더 크다. 이 노드의 가치는 완결된 인생 설계도를 제시하는 데 있지 않다. 오히려 삶의 큰 방향에 대한 질문을 너무 빨리 닫지 않고 계속 붙잡아 두는 데 있다.
 
-### What fails
-- Distant plans with no concrete trigger.
-- Plans that are too abstract to start.
-- Plans that are so rigid they kill motivation.
-- Waiting for one perfect answer before moving.
+## 원문에서 보이는 세부 층위
 
-### What works better
-- Small executable plans.
-- Layered progress, similar to iterative or agile building.
-- Finishing meaningful slices quickly, then refining.
-- Letting experience update the plan instead of defending the original plan.
-- Treating goals as revisable milestones rather than final identities.
+### 목표와 계획
+- 목표를 왜 세우는가, 계획이 왜 실행되지 않는가, 추상성과 강박 사이의 균형은 무엇인가를 반복해서 묻는다.
+- 마일스톤 개념, 작은 계획, 층층이 만드는 방식, 하루 안에 끝낼 의식 같은 실행 언어가 중간중간 나타난다.
+- 완벽한 계획 수립보다 `움직일 수 있는 단위`를 설계하는 쪽이 더 중요하게 읽힌다.
 
-### Practical rule of thumb
-A plan is healthy when it is specific enough to trigger action, but loose enough to adapt after contact with reality.
+### 시간과 생산성
+- 시간을 빈틈없이 쓰는 삶은 피폐해질 수 있다고 본다.
+- 쉼을 낭비로만 보지 않으며, 생산성의 목적도 최대 밀도가 아니라 하고 싶은 것이 생겼을 때 바로 할 수 있는 준비 상태에 둔다.
+- 과거를 아까워하는 마음은 이해하지만, 그 감정에 매달리는 것은 지속 가능하지 않다고 본다.
 
-## Time philosophy inside the note
-- A fully optimized life becomes impoverished.
-- Rest is not automatically waste.
-- The goal of productivity is not maximum density, but readiness: being able to act when something genuinely worth doing appears.
-- Regret about the past is acknowledged, but the note rejects obsessive time-accounting as unsustainable.
+### 일, 성장, 죄책감
+- 일과 삶을 완전히 분리하고 싶어 하면서도, 뒤처짐과 실력 녹슬음에 대한 불안을 동시에 느낀다.
+- 개인 프로젝트와 삶의 경험이 다시 일에 도움될 수 있다는 점을 발견하면서, `분리`보다 `느슨한 블렌딩` 쪽으로 기울어 간다.
+- 다만 업무 시간 밖의 계획조차 거부감이 든다는 진술은, 이 노드가 아직 안정된 답에 도달하지 않았음을 보여 준다.
 
-## Life design patterns
+### 노후와 생산 수단
+- 집, 여윳돈, 은퇴 후 파이프라인, 오래 일할 수 있는 기반 같은 메모는 미래를 단순한 소비 안정이 아니라 자율성 유지의 문제로 본다.
+- 돈만이 아니라 글쓰기, 연구, 출판, 개발, 지식 자산 같은 비금전적 생산 수단도 함께 상상한다.
 
-### Retirement and later life
-The note treats old age as an extension of curiosity and contribution, not as passive waiting. Books, research, writing, mentoring, family, music, and ongoing creation all appear as possible anchors.
+### 부모 됨과 환경 설계
+- 좋은 부모는 통제자가 아니라 생각을 도와주는 사람에 가깝게 그려진다.
+- 아이의 선택, 질문, 독서 환경, 주거 환경이 함께 언급되는 것은, 미래 준비를 교육·공간·관계 설계와 연결해 본다는 뜻이다.
 
-### Production assets
-A recurring concern is to build something that continues to generate freedom later: income pipelines, creative output, knowledge assets, or durable capability.
+### 기술 발전과 문명 감각
+- 기술 발전을 월드컵의 관중처럼 오래 지켜보고 싶다는 문장은, 미래를 두려움보다 경이와 참여 욕구로 바라보는 태도를 드러낸다.
+- 동시에 유토피아, 매트릭스, 멋진 신세계에 대한 경계는 기술이 사람을 위한 방향을 잃을 수 있다는 우려를 남긴다.
 
-### Family and parenting
-The future is not only personal. Parenting sections show a wish to preserve the child's agency, encourage thought instead of obedience alone, and create an environment that transmits curiosity by example.
+### 죽음과 유한성
+- 죽음은 남은 사람에게 고통이라는 감각, 시한부 상상, 낭비의 재해석은 삶의 밀도와 소중함을 다시 생각하게 만든다.
+- 이 층위는 장수 논의를 감상적으로 만들지 않고, `무엇이 살아 있음의 질을 만드는가`라는 질문으로 다시 연결한다.
 
-### Technology and civilization
-The note positions the author as a grateful long-term spectator of technological change who also wants technology to remain oriented toward human life rather than control or false utopia.
+## 반복해서 드러나는 판단 기준
+- 큰 목표는 있어도 실행 단위는 작아야 한다.
+- 예측보다 준비와 적응이 중요하다.
+- 미래 준비가 현재의 삶을 모두 소모시켜서는 안 된다.
+- 생산 수단은 돈만이 아니라 지속되는 능력, 기록, 작품, 파이프라인일 수 있다.
+- 노년은 비활동의 시간이 아니라 다른 형태의 재미와 기여의 시간이어야 한다.
+- 아이와 다음 세대에 대해서는 통제보다 자율성, 강요보다 질문이 중요하다.
+- 미래를 생각할수록 오히려 답에 집착하지 않는 유연함이 필요하다.
 
-## 숨은 패턴 across the page
-Many sections are really about the same question:
+## 이 노드에서 특히 중요한 긴장
 
-> How do I build a life that remains alive, humane, and generative across changing conditions?
+### 현재 충실함 vs 미래 대비
+현재를 잘 살아야 한다는 감각과 미래 준비를 해야 한다는 압박이 계속 충돌한다. 원문은 어느 한쪽을 완전히 이기게 두지 않고, 두 축 사이의 적절한 지점을 찾으려 한다.
 
-That question reappears as career planning, retirement, child-raising, time management, technology, and mortality.
+### 비전 vs 실행 가능성
+출판, 기술 발전, 생산 수단, 좋은 부모 역할 같은 큰 비전은 풍부하지만, 실제 실행은 작은 계획이 없으면 멈춘다. 그래서 이 노드는 비전의 크기를 줄이기보다 실행 단위를 더 잘게 만들라고 말한다.
 
-## Useful links inside the Human cluster
-- [[./Evolve]] for experience, change, and the risk of hardening into bias.
-- [[./Balance]] for the recurring need to avoid one-sided optimization.
-- [[./Reality]] for the gap between intention and actual execution.
-- [[./Principle]] if the future-facing stance is later consolidated into explicit life rules.
+### 오래 삶 vs 잘 삶
+100살까지 건강하게 살고 싶다는 바람이 있지만, 치매나 상실, 무기력한 연명은 원하지 않는다. 결국 오래 삶의 의미는 건강, 재미, 관계, 자율성, 생산성의 질에 달려 있다.
 
-## 정리 메모 applied here
-- Collapsed repeated goal/plan language into a smaller set of tensions.
-- Preserved the note's broad scope instead of forcing it into a pure productivity page.
-- Pulled parenting, retirement, and technology back into one shared frame: future-readiness with human meaning.
+### 통제된 계획 vs 변화 수용
+계획은 필요하지만, 너무 고정되면 삶을 감옥으로 만든다. 이 노드는 마일스톤은 세우되 정체성처럼 붙들지는 말라는 쪽에 가깝다.
 
-## Follow-up questions
-- Which future assets matter most here: money, health, relationships, skills, audience, or publishable work?
-- Which kinds of plans have actually executed in the past, and what made them executable?
-- Should this node later split its strongest subtheme into linked synthesis notes, for example retirement design or milestone planning?
+## 인접 노드와의 연결
+- [[./Reality]]: 미래 구상이 실제 생활과 마찰을 만났을 때 무엇이 남는지 이어서 볼 수 있다.
+- [[./Balance]]: 현재와 미래, 자유와 준비, 일과 삶의 비중 조정 문제가 직접 맞닿아 있다.
+- [[./Evolve]]: 변화에 적응하면서도 편견이나 경직으로 굳지 않으려는 감각이 이어진다.
+- [[./Principle]]: 이 노드의 질문들이 더 압축되면 장기적인 삶의 운영 원칙으로 옮겨 갈 수 있다.
+- [[../Meta/일]]: 일과 성장, 죄책감, 자기개발, 생산 수단 논의가 실제 업무 감각과 연결된다.
 
-## 관련 문서
-- [[../../sources/Human]]
+## 오래 남길 만한 요약
+- 미래는 맞히는 것이 아니라, 변화가 와도 다시 움직일 수 있게 만드는 것이다.
+- 좋은 계획은 강한 비전과 작은 실행 단위를 함께 가진다.
+- 현재를 다 태워 만든 미래는 오래 가기 어렵고, 현재만 좇는 삶은 선택지를 잃기 쉽다.
+- 노년과 은퇴는 소비만의 시간이 아니라 다른 방식의 재미, 기여, 생산 수단을 다시 설계하는 문제다.
+- 다음 세대에 대해 생각한다는 것은 통제보다 자율성과 환경을 설계하는 일에 가깝다.
+- 이 노드의 힘은 미래에 대한 정답보다, 미래를 살아갈 질문을 오래 붙들고 있다는 데 있다.
+
+## 이번 심화에서 보강한 점
+- 기존 영어 중심 정리를 한국어 기준의 카테고리 노드 문서로 전면 재구성했다.
+- 목표/계획 메모에 치우쳤던 읽기를 노년, 부모 역할, 기술 문명, 죽음까지 아우르는 `미래 설계 노드`로 확장했다.
+- 원문의 넓은 범위를 유지하되, 모든 하위 주제가 `현재를 잃지 않는 미래 준비`라는 하나의 질문 아래 연결되도록 다시 묶었다.
+- [[./Reality]]를 기준 노드로 삼아, 미래 구상이 현실 마찰과 만나는 지점을 더 분명히 드러냈다.
+
+## 정리 메모
+- 다음 심화에서는 `작은 실행 단위 설계`와 `노년/은퇴 상상` 중 어느 축이 실제로 더 자주 재등장하는지 확인해 중심축을 더 선명하게 만들 수 있다.
+- 부모·아이 관련 메모가 더 늘어나면 별도 합성 페이지로 빼기보다, 당분간은 이 노드 안에서 `다음 세대 설계` 하위 축으로 유지하는 편이 원문 성격에 맞다.
+- 지금 단계에서는 미래를 생산성 노트로 납작하게 만들지 않고, 삶 전체 설계 질문으로 보존하는 것이 더 중요하다.
