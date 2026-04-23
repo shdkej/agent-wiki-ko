@@ -21,6 +21,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/blog/Digital_Content.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### blog/picasso 단일 노드 재심화
+- 갱신 범위: [[mapped/blog/picasso]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 미술관 후기보다 `사진기 이후 회화의 위기`, `AI 이후 개발/디자인의 역할 재정의`, `현장 감상이 현재 작업 문제를 해석하는 순간`을 함께 다루는 사유 실험 카테고리라는 점을 더 선명하게 정리했다.
+- 정리: 기존 baseline은 유지한 채 전시 현장성이 왜 이 글의 설득력을 만드는지 별도 단락으로 드러내고, 인간 역할 이동을 `문제 framing`, `감식과 수정`, `새 기준 발명`의 세 축으로 다시 묶어 [[mapped/Deep Knowledge/AI]]·[[mapped/Integration/Design]]와의 연결 이유를 보강했다.
+- 선호 신호: 저자는 AI 시대 논의를 추상적 찬반보다, 예술사·전시 경험 같은 외부 사례를 현재 직업 정체성 문제에 번역해 보는 방식으로 사고를 확장하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/blog/picasso.md`는 frontmatter상 2025-07-03 갱신 이력이 있으나 파일 수정 시각 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-23 | Fundamental · Human · Meta · Health 노드 점진 심화
 
 ### Fundamental/Coding 단일 노드 재심화
