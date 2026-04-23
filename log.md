@@ -99,10 +99,10 @@
 ### CHANGELOG 단일 노드 재심화
 - 갱신 범위: [[mapped/CHANGELOG]] 1개 페이지만 점진 심화했다.
 - 탐구: 원문 전체를 다시 읽고, 이 노드가 여전히 기능 연혁보다 `개인 발행 공간을 작은 제품 표면처럼 운영한 기록`이며, 특히 `add`보다 `update`가 더 많이 남는다는 점에서 확장보다 재조정의 리듬이 더 본질적이라는 해석을 보강했다.
-- 정리: 기존 baseline은 유지한 채 `standard-version` 문법을 왜 개인 웹 운영에 빌려왔는지, 그리고 이 파일을 왜 기능 카탈로그보다 `운영 맥박 기록`으로 읽어야 하는지를 더 짧고 선명하게 다듬었다.
+- 정리: 기존 baseline은 유지한 채 마지막 릴리스의 `🎸 update 21-04-23`까지 다시 반영해, 패키지형 release 문법과 생활형 작업 메모가 한 파일에서 충돌하는 구조를 더 선명하게 다듬었다.
 - 선호 신호: 저자는 개인 웹도 즉흥적 창작 공간으로만 두기보다 버전, diff, 배포 흔적이 남는 운영 표면처럼 다루는 경향이 강하다.
-- 드리프트 점검: 대응 원본 `source/shdkej-content/CHANGELOG.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
-- 배포: `scripts/publish-agent-wiki.sh` 실행으로 공개 저장소 동기화를 진행했다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/CHANGELOG.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 재실행으로 공개 저장소 동기화를 갱신했다.
 
 ### Human/Readability 단일 노드 재심화
 - 갱신 범위: [[mapped/Human/Readability]] 1개 페이지만 점진 심화했다.
