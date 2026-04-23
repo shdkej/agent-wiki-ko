@@ -1,5 +1,15 @@
 # 지식 랩 로그
 
+## 2026-04-23 | Fundamental 노드 점진 심화
+
+### Fundamental/Network 단일 노드 재심화
+- 갱신 범위: [[mapped/Fundamental/Network]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 프로토콜 요약집보다 `웹 요청 추적`, `주소와 경계 관리`, `앞단 장치로의 역할 외주`, `성능 병목 해석`을 함께 다루는 기본 카테고리라는 점을 더 선명하게 읽었다.
+- 정리: 기존 baseline은 유지한 채 DNS·NAT·VLAN·서브넷 메모를 `주소와 경계 관리` 축으로 묶고, WebSocket·gRPC·GraphQL 메모를 전송 인터페이스 비교의 일부로 재해석했으며, 질문형 메모를 성급히 제거하지 않고 학습 구조의 일부로 남겨 두는 기준을 보강했다.
+- 선호 신호: 저자는 네트워크를 규약 암기보다 `어느 경계에서 무엇이 결정되는가`를 추적하는 시스템 감각으로 이해하는 경향이 강하고, 이해가 멈춘 질문도 지워 버리기보다 다음 탐색 지점으로 보존하는 편이 더 잘 맞는다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Network.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-23 | Deep Knowledge 노드 점진 심화
 
 ### Deep Knowledge/Cloud 단일 노드 재심화
