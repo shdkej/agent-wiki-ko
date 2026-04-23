@@ -10,6 +10,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Container.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Communication/Teamwork 단일 노드 재심화
+- 갱신 범위: [[mapped/Communication/Teamwork]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 협업 미덕 요약보다 `방향 제시형 리더십`, `중앙-현장 조율`, `평가와 안전감의 동시 관리`, `문서·비동기 규칙`을 함께 다루는 협업 운영 카테고리라는 점을 더 선명하게 정리했다.
+- 정리: 기존 baseline은 유지한 채 리더를 `답변자`보다 `방향 번역자/촉매자`로 읽는 축, 바텀업/탑다운의 긴장, 팀장이 사업 요구·평가 언어·심리적 안전감까지 함께 다루는 역할이라는 해석을 보강했다.
+- 선호 신호: 저자는 팀장을 단순 관리자보다 맥락 번역자이자 완충 장치로 보며, 좋은 팀워크를 친밀함보다 정보 비대칭 감소와 재진입 가능한 기록 구조의 문제로 이해하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Teamwork.md`는 mapped 노트보다 오래되어 최근 직접 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-23 | Root 노드 점진 심화
 
 ### Portfolio 단일 노드 재심화
