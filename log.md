@@ -1,5 +1,15 @@
 # 지식 랩 로그
 
+## 2026-04-24 | Deep Knowledge 노드 점진 심화
+
+### Deep Knowledge/Data 단일 노드 재심화
+- 갱신 범위: [[mapped/Deep Knowledge/Data]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 DB 제품 비교보다 `저장-조회-검색-분석-기억`이 겹치는 데이터 운영 카테고리라는 점을 더 선명하게 확인했다.
+- 정리: 기존 baseline은 유지한 채 Elasticsearch를 독립 검색 계층으로 읽는 축, ClickHouse·Athena·CDC를 운영계/분석계 분리의 판단 구조로 읽는 축, 후반부의 기억·정보 과잉 메모를 기술 주변부가 아닌 핵심 층으로 끌어올리는 보강을 했다.
+- 선호 신호: 저자는 데이터를 예쁜 스키마보다 나중에 다시 찾고 감당하고 분리 운영할 수 있는 구조의 문제로 보는 경향이 강하고, 정보 수집 욕망과 처리 지연의 불안도 함께 의식하는 편이다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Data.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-24 | Communication 노드 점진 심화
 
 ### Communication/Open_Source 단일 노드 재심화
