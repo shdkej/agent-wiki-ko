@@ -2,6 +2,15 @@
 
 ## 2026-04-24 | Integration 노드 점진 심화
 
+### Integration/Marketing 단일 노드 재심화
+- 갱신 범위: [[mapped/Integration/Marketing]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 채널 운영 팁 묶음보다 `유입-전환-유지` 흐름, `마케팅 vs 영업 vs CRM`의 시점 차이, `무료/유료 경계의 제품화`, `UX 라이팅과 SNS의 인상 설계`를 함께 다루는 사용자 이동 설계 카테고리라는 점을 더 선명하게 확인했다.
+- 정리: 기존 baseline은 유지한 채 4P를 교과서 체크리스트로만 남기고 실제 사고 중심이 고객 해석과 전환 설계에 있다는 점, 무료 버전의 마찰과 유료 자동화의 대비, [[mapped/Deep Knowledge/Product]]·[[mapped/Human/Readability]] 연결 이유를 보강했다.
+- 선호 신호: 저자는 마케팅을 광고 실행보다 사람 이해, 설득 타이밍, 제품 경험, 말투 조정이 맞물리는 운영 문제로 읽는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Marketing.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
+
 ### Integration/Exploration 단일 노드 재심화
 - 갱신 범위: [[mapped/Integration/Exploration]] 1개 페이지만 점진 심화했다.
 - 탐구: 원문 전체를 다시 읽고, 이 노드가 조사 절차 메모에 그치지 않고 `발견 가능성`, `정리된 시작점의 효용`, `메인스트림 밖 정보의 취약성`, `증상보다 긴 인과 사슬을 보는 질문법`까지 함께 다루는 탐구 운영 카테고리라는 점을 더 선명하게 확인했다.
