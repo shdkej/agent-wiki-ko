@@ -10,6 +10,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Health/Decision.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Meta/About_Architecture 단일 노드 재심화
+- 갱신 범위: [[mapped/Meta/About_Architecture]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 패턴 선택 메모보다 `고장 반경 축소`, `교체 가능성`, `재구축 용이성`, `입력-로직-출력의 공통 문법`, `작게 시작해 반복 분화하는 성장 절차`를 함께 다루는 메타 아키텍처 카테고리라는 점을 더 선명하게 확인했다.
+- 정리: 기존 baseline은 유지한 채 `아키텍처는 정적 도면이 아니라 반복 가능한 성장 절차`라는 축, `A/S` 메모를 운영 후 보수 루프로 읽는 축, `제약`을 단순 불편이 아니라 설계 기준을 선명하게 만드는 장치로 읽는 축을 보강했다.
+- 선호 신호: 저자는 아키텍처를 최신 패턴 선택보다, 바꿀 수 있는 부분과 지켜야 할 부분을 구분하고 나중에 다른 도구로도 옮겨갈 수 있게 만드는 운영 문법으로 보는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Meta/About_Architecture.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-24 | Root · Deep Knowledge 노드 점진 심화
 
 ### CHANGELOG 단일 노드 재심화
