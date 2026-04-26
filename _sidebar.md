@@ -7,7 +7,6 @@
   - [인간-에이전트 핏](concepts/Human-Agent Fit.md)
   - [확장 전에 구조를 본다](concepts/Structure before scale.md)
 - **diary**
-  - [2026-04-18](diary/2026-04-18.md)
   - [2026-04-19](diary/2026-04-19.md)
   - [2026-04-20](diary/2026-04-20.md)
   - [2026-04-21](diary/2026-04-21.md)
@@ -15,6 +14,7 @@
   - [2026-04-23](diary/2026-04-23.md)
   - [2026-04-24](diary/2026-04-24.md)
   - [2026-04-25](diary/2026-04-25.md)
+  - [2026-04-26](diary/2026-04-26.md)
 - **maintenance**
   - [초기 가져오기 계획](maintenance/Initial Import Plan.md)
   - [소스 매핑](maintenance/Source Mapping.md)
