@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1777080036769,
+  "lastScanned": 1777184394093,
   "projectRoot": "/Users/seongho-noh/workspace/agent-wiki",
   "techStack": {
     "languages": [],
@@ -24,7 +24,9 @@
   "structure": {
     "isMonorepo": false,
     "workspaces": [],
-    "mainDirectories": [],
+    "mainDirectories": [
+      "scripts"
+    ],
     "gitBranches": {
       "defaultBranch": "main",
       "branchingStrategy": null
@@ -36,7 +38,7 @@
       "path": "concepts",
       "purpose": null,
       "fileCount": 3,
-      "lastAccessed": 1777080036654,
+      "lastAccessed": 1777184394039,
       "keyFiles": [
         "Context over inventory.md",
         "Human-Agent Fit.md",
@@ -47,20 +49,20 @@
       "path": "diary",
       "purpose": null,
       "fileCount": 8,
-      "lastAccessed": 1777080036654,
+      "lastAccessed": 1777184394039,
       "keyFiles": [
-        "2026-04-17.md",
         "2026-04-18.md",
         "2026-04-19.md",
         "2026-04-20.md",
-        "2026-04-21.md"
+        "2026-04-21.md",
+        "2026-04-22.md"
       ]
     },
     "maintenance": {
       "path": "maintenance",
       "purpose": null,
       "fileCount": 2,
-      "lastAccessed": 1777080036655,
+      "lastAccessed": 1777184394039,
       "keyFiles": [
         "Initial Import Plan.md",
         "Source Mapping.md"
@@ -70,17 +72,26 @@
       "path": "mapped",
       "purpose": null,
       "fileCount": 2,
-      "lastAccessed": 1777080036655,
+      "lastAccessed": 1777184394040,
       "keyFiles": [
         "CHANGELOG.md",
         "Portfolio.md"
+      ]
+    },
+    "scripts": {
+      "path": "scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 1,
+      "lastAccessed": 1777184394040,
+      "keyFiles": [
+        "generate_sidebar.js"
       ]
     },
     "sources": {
       "path": "sources",
       "purpose": null,
       "fileCount": 7,
-      "lastAccessed": 1777080036655,
+      "lastAccessed": 1777184394040,
       "keyFiles": [
         "Communication.md",
         "Fundamental.md",
@@ -93,7 +104,7 @@
       "path": "syntheses",
       "purpose": null,
       "fileCount": 2,
-      "lastAccessed": 1777080036655,
+      "lastAccessed": 1777184394040,
       "keyFiles": [
         "Knowledge Lab Operating Thesis.md",
         "Source Category Map.md"
