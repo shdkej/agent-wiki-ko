@@ -26,6 +26,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Human/Readability.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### blog/Digital_Content 단일 노드 재심화
+- 갱신 범위: [[mapped/blog/Digital_Content]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 여전히 백업 팁 메모보다 `디지털 소유`, `플랫폼 접근권`, `DRM`, `서비스 지속성`, `구독 vs 소장`, `개인 아카이브 재접속`을 함께 다루는 생활형 판단 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 원문을 `저장·보안·권리·서비스 지속성·재접속`의 다섯 실패 지점으로 다시 묶고, `무엇을 소장 후보로 올리고 무엇은 구독으로 넘길지`를 생활형 판단 루프로 정리해 후반부의 구독 논의를 앞선 보존 문제와 같은 축으로 연결했다.
+- 선호 신호: 저자는 디지털 콘텐츠를 단순 소비재보다 기억과 취향이 묻은 개인 자산으로 느끼며, 편의는 인정하되 플랫폼 종속 때문에 장기 소유 감각이 깨지는 상태에 특히 강한 위화감을 느끼는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/blog/Digital_Content.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-24 | Meta 노드 점진 심화
 
 ### Meta/About_Development 단일 노드 재심화
