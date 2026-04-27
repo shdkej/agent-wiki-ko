@@ -8,7 +8,7 @@
 - 정리: 기존 baseline은 유지한 채 frontmatter와 `원문 발췌 구조`를 보강하고, `탐구 운영 루프 7단계`, `지식의 구멍`, `탐구 실패 신호` 축을 추가해 탐구를 검색 기술보다 진단·지속·전달의 루프로 더 선명하게 묶었다.
 - 선호 신호: 저자는 탐구를 많이 찾는 감각보다, 왜 찾는지 설명하고 비교축·검증 경로·공유 구조까지 남기는 재사용 가능한 운영 시스템으로 다루는 경향이 강하다.
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Exploration.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
-- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 완료.
 
 ### Human/Love 단일 노드 재심화
 - 갱신 범위: [[mapped/Human/Love]] 1개 페이지만 점진 심화했다.
