@@ -8,7 +8,7 @@
 - 정리: 기존 baseline은 유지한 채, 이미지가 왜 `설명 가능한 구조`의 증거로 쓰이는지와 프로젝트 배열이 왜 `중심 역할 + 확장 반경`을 드러내는지 보강해 페이지의 자기소개 전략을 더 빠르게 읽히게 다듬었다.
 - 선호 신호: 저자는 포트폴리오에서도 개별 성과 못지않게 사례 배치와 도식 자료를 통해 `어떤 역할을 중심으로 일하는가`를 설명하는 편이 더 잘 맞는다.
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Portfolio.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
-- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 완료.
 
 ### CHANGELOG 단일 노드 재심화
 - 갱신 범위: [[mapped/CHANGELOG]] 1개 페이지만 점진 심화했다.
