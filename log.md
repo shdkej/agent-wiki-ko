@@ -1,5 +1,15 @@
 # 지식 랩 로그
 
+## 2026-04-27 | Root 노드 점진 심화
+
+### CHANGELOG 단일 노드 재심화
+- 갱신 범위: [[mapped/CHANGELOG]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드에서 특히 `0.1.2`, `0.1.1 Features`, `0.1.1 Bug Fixes`의 실제 항목 구성이 왜 형식적 섹션명보다 더 중요한지 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `원문 발췌 구조 메모`를 추가해 광고·검색·SEO·생활형 update·Gatsby 상속 항목이 한 릴리스 껍데기 안에서 어떻게 섞이는지 더 빠르게 보이게 다듬었다.
+- 선호 신호: 저자는 CHANGELOG에서도 추상 해석만보다 실제 항목 묶음을 짧게 다시 보여 주는 편이 드리프트를 줄이고 읽는 속도를 높인다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/CHANGELOG.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-24 | Meta 노드 점진 심화
 
 ### Meta/About_Development 단일 노드 재심화
