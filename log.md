@@ -1,6 +1,15 @@
 # 지식 랩 로그
 
-## 2026-04-27 | Root · Human 노드 점진 심화
+## 2026-04-27 | Root · Human · Idea 노드 점진 심화
+
+### Idea/Reading 단일 노드 재심화
+- 갱신 범위: [[mapped/Idea/Reading]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 여전히 책 요약집이 아니라 `입력 목록`, `반응 기록`, `인용 저장`, `읽기 철학`, `다른 노드로의 사고 이동`을 함께 붙드는 읽기 운영 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `원문 발췌 구조`와 `독서 루프`를 복원하고, 후반부의 `독서는 여행이다`, `리뷰`, `책값`, `텍스트와 이미지의 차이` 메모를 부록이 아니라 읽기 운영 철학의 핵심층으로 끌어올렸으며, [[mapped/Idea/Movie]]·[[mapped/Idea/Article]]·[[mapped/Human/Readability]]·[[mapped/Fundamental/Coding]]로 번지는 연결 이유를 더 구체화했다.
+- 선호 신호: 저자는 Reading 노트에서도 개별 책 요약보다, 어떤 문장과 장면이 왜 남았는지와 그것이 다른 삶·판단·개발 질문으로 어떻게 이동하는지를 더 중요하게 다루는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Idea/Reading.md`는 frontmatter상 최근 갱신 이력이 있으나 파일 수정 시각 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 
 ### Human/Future 단일 노드 재심화
 - 갱신 범위: [[mapped/Human/Future]] 1개 페이지만 점진 심화했다.
