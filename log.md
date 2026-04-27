@@ -144,6 +144,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Talk.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Meta/My_space 단일 노드 재심화
+- 갱신 범위: [[mapped/Meta/My_space]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체를 다시 읽고, 이 노드가 여전히 개인 서버 희망사항 메모가 아니라 `복원 가능한 운영 상태`, `배포 분리`, `관측`, `비용 경계`, `실제 자동화 워크로드`를 함께 붙드는 메타 운영 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `원문 발췌 구조`를 추가해 목표 선언·검증 과제·실제 워크로드·2026 운영면의 배치를 복원했고, Oracle/ArgoCD 메모를 `클러스터 띄우기`보다 `상태 전달 경로 설계`로 다시 읽어 `앱 레포 -> space 레포 -> auto sync -> 관측/롤백`의 운영 루프를 더 선명하게 압축했다.
+- 선호 신호: 저자는 My_space 노트에서도 서버 보유 자체보다 여러 앱과 자동화를 같은 규칙으로 다시 띄우고 상태를 추적할 수 있는 공용 제어면을 더 중요하게 다루는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Meta/My_space.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-24 | Meta 노드 점진 심화
 
 ### Meta/About_Development 단일 노드 재심화
