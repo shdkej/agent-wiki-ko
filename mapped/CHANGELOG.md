@@ -4,7 +4,7 @@ tags: [mapped, changelog, portfolio, publishing, maintenance]
 source_file: "[[source/shdkej-content/CHANGELOG.md]]"
 source_name: CHANGELOG
 created: 2026-04-14
-updated: 2026-04-28 03:17 UTC
+updated: 2026-04-28 05:17 UTC
 status: evolving
 language: ko
 ---
@@ -46,6 +46,15 @@ language: ko
 
 ## 원본 섹션 대응 압축
 
+원본을 그대로 따라 읽으면 섹션명은 단순하지만, 실제 내용은 아래 네 층이 겹쳐 있다.
+
+| 층위 | 원문에서 직접 보이는 대표 항목 | 읽는 기준 |
+| --- | --- | --- |
+| 짧은 운영 반영 | `update 21-04-20`, `🎸 update 21-04-23` | 큰 릴리스보다 생활형 손질 리듬이 앞선다. |
+| 발행면 확장 | `add an seo component`, `add sitemap, google custom search`, `ADD adsense script`, `ADD kakao adfit` | 글을 올리는 것과 노출/유입/수익 실험이 분리되지 않는다. |
+| 화면·표현 손질 | `update index with grid`, `update 404 page`, `Update popup color and position` | 사용자가 만지는 표면도 잦은 미세 조정 대상으로 다룬다. |
+| 기반 유지·상속 노동 | `update gatsby monorepo`, starter/plugin/dependency/security fix 계열 | 개인 웹도 upstream 변화 비용을 계속 떠안는 기술 시스템이다. |
+
 ### 0.1.2는 짧은 운영 반영 구간이다
 원본의 마지막 버전은 사실상 `update 21-04-20`, `🎸 update 21-04-23` 두 줄에 가깝다.
 - 마지막 릴리스조차 큰 기능 묶음보다, 이미 운영 중인 사이트를 짧게 손보고 다시 내보내는 리듬이 앞에 온다.
@@ -60,26 +69,6 @@ language: ko
 `Bug Fixes` 아래에는 package 정리, fragment 제거, 404 수정, dependency 보안 패치, Gatsby monorepo와 starter 업데이트가 대량으로 쌓여 있다.
 - 사용자 눈에는 사소하거나 보이지 않는 항목이 많지만, 실제 운영 노동의 중심은 이쪽에 더 가깝다.
 - 따라서 원본의 섹션 제목을 그대로 믿기보다, `표면 확장`과 `기반 유지`라는 두 층으로 다시 읽어야 전체 비중이 맞춰진다.
-
-## 원문 커밋 흐름을 다시 읽으면 보이는 층위
-
-### 초기 층위: 발견 가능성과 수익화 실험
-비교적 이른 시점부터 sitemap, google custom search, SEO component, Adsense, Kakao adfit이 반복해서 등장한다.
-- 사이트를 단순 저장소보다 발견되고 읽히는 공개 공간으로 상상한다.
-- 글을 쓰는 행위와 검색 유입 설계가 분리되지 않는다.
-- 수익화는 중심 목적이라기보다, 공개 발행 환경에 붙일 수 있는 현실적 실험으로 다뤄진다.
-
-### 중간 층위: 화면 손질과 발행 품질 관리
-중간중간 보이는 블로그 포스트 수정, 팝업 위치 조정, 404 페이지 수정, grid 정리 같은 항목은 작아 보여도 중요하다.
-- 저자는 사이트 운영을 거대한 개편보다 잦은 미세 조정으로 밀어간다.
-- 사용자가 직접 보는 표면도 꾸준히 손보지만, 그것만 따로 떼어 관리하지 않는다.
-- 표현 품질과 운영 안정성이 같은 리듬 안에 있다.
-
-### 바닥 층위: 프레임워크 드리프트 대응
-원본에서 가장 압도적인 비중은 Gatsby monorepo, starter, plugin, dependency 업데이트다.
-- 작은 사이트라도 툴체인 위에 올라가면 외부 변화 비용을 피할 수 없다는 사실이 드러난다.
-- 유지보수는 부차 업무가 아니라 공개 발행을 계속하기 위한 기본 조건이 된다.
-- CHANGELOG의 핵심 가치는 화려한 기능보다 "계속 깨지지 않게 맞춰 나간 흔적"에 있다.
 
 ## 원본에서 드러나는 지속 패턴
 
@@ -281,6 +270,8 @@ Adsense, Kakao adfit, 스크립트 삽입 관련 변경은 이 질문 아래 읽
 - `gatsby monorepo`: 96회
 - `sitemap`: 4회, `google custom search`: 4회
 - `adsense`: 3회, `adfit`: 3회
+
+빈도만으로는 부족해서, 이번 패스에서는 대표 커밋 묶음을 바로 위 표에 붙여 `반복 압력`과 `실제 사례`가 같이 보이도록 맞췄다.
 
 | 반복 표현 | 이 페이지에서의 해석 |
 | --- | --- |
