@@ -1,5 +1,15 @@
 # 지식 랩 로그
 
+## 2026-04-28 | Integration 노드 점진 심화
+
+### Integration/Tool 단일 노드 재심화
+- 갱신 범위: [[mapped/Integration/Tool]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 툴 추천 목록이 아니라 `작업 표면 지도`, `편입 문턱`, `복구 가능한 운영 기억`, `시스템 증설 감각`을 함께 붙드는 통합 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `블로그 소프트웨어 탑 텐`의 8개 층을 별도 `원문 발췌 구조`로 복원했고, Tailscale·OpenClaw 메모를 새 도구의 실제 운영 편입 문턱으로 더 선명하게 재해석했으며, Linux/Git/ETC 확장을 상위 툴들을 떠받치는 하부 운영 토대로 다시 연결했다.
+- 선호 신호: 저자는 Tool 노트에서도 앱 이름 자체보다 검색성, 원격 접근, 권한·인증·복구 순서, 재설치 가능성이 살아 있는 운영 표면으로 읽히는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Tool.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-27 | Root · Human · Idea · Fundamental · Deep Knowledge 노드 점진 심화
 
 ### Portfolio 단일 노드 재심화
