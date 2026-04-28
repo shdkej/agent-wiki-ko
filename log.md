@@ -63,6 +63,14 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Tool.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Communication/Teamwork 단일 노드 재심화
+- 갱신 범위: [[mapped/Communication/Teamwork]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 협업 미덕 요약이 아니라 `조직 배치`, `맥락 번역형 리더십`, `문서·리뷰·온보딩 handoff`, `질문하기 쉬운 인터페이스`를 함께 다루는 협업 운영 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 기능 조직·목적 조직·TF·피자 2판 팀을 한 비교 축으로 더 또렷하게 압축했고, 커밋 규칙·코드 리뷰·문서·GitHub workflow 메모를 `기술 규칙`이 아니라 `팀 사이 handoff 표면`으로 다시 묶어 왜 팀워크 노드 안에 있어야 하는지 더 빠르게 읽히게 다듬었다.
+- 선호 신호: 저자는 팀워크를 친화력보다 정보 비대칭 감소, 질문 가능한 인터페이스, 성장 버퍼 배분, 공개 기록 구조의 문제로 읽는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Teamwork.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-27 | Root · Human · Idea · Fundamental · Deep Knowledge 노드 점진 심화
 
 ### Portfolio 단일 노드 재심화
