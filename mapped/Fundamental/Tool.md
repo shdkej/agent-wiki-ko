@@ -4,7 +4,7 @@ tags: [mapped, fundamental, tool, linux, git, ops]
 source_file: "[[source/shdkej-content/Fundamental/Tool.md]]"
 source_name: Tool
 created: 2026-04-14
-updated: 2026-04-22
+updated: 2026-04-28
 status: evolving
 language: ko
 ---
@@ -13,7 +13,7 @@ language: ko
 
 - 원본: `source/shdkej-content/Fundamental/Tool.md`
 - 성격: 만다라트 `Fundamental` 축의 1:1 대응 카테고리 노드
-- 이번 상태: 기존 기준선은 유지하되, 거대한 명령어 더미처럼 보이는 원문을 `환경 장악 → 운영 지속성 → 복구와 배포 → 시스템 조합`의 흐름으로 더 촘촘하게 재정리함
+- 이번 상태: 기존 기준선은 유지하되, 거대한 명령어 더미처럼 보이는 원문을 `환경 장악 → 운영 지속성 → 복구와 배포 → 시스템 조합`의 흐름으로 다시 읽으면서, 특히 `파일 경로를 기억하는 법`, `꼬였을 때 되돌아오는 법`, `서비스를 붙이기 전에 하부 감각을 먼저 확보하는 법`을 더 선명하게 보강함
 
 ## 한눈에 보는 핵심
 이 노트의 `Tool`은 앱 추천 목록이 아니다. 원문은 Linux 명령어, 한글 입력기 설정, 백업 스크립트, SSH 보안, DNS, 스토리지, Git 복구, Terraform, Ansible, Vault, gRPC, 스트리밍까지 한 문서에 쌓아 둔다. 겉으로는 산만하지만 실제 중심은 분명하다.
@@ -123,6 +123,58 @@ Terraform, Ansible, Serverless, Vault, Nagios, Lambda cronjob, API gateway, gRPC
 - 비밀정보, 배포, 모니터링, 이벤트, 통신을 어떤 레이어에서 분리할 것인가?
 - 작은 서비스에도 운영 체계를 얼마나 들여와야 하는가?
 
+### 9. 원문은 `기초 명령어 모음`에서 끝나지 않고 `하부 감각 → 상부 설계`로 올라간다
+이 페이지를 다시 읽으면 초반 Linux 메모와 후반 gRPC·API gateway·streaming 메모가 단절된 주제가 아니라는 점이 더 선명하다. 앞쪽에서는 파일, 권한, 경로, 프로세스, cron, 백업, 네트워크를 손으로 다루는 감각을 쌓고, 뒤쪽에서는 그 감각 위에 배포 구조·통신 구조·비밀관리·운영 자동화를 올리려 한다.
+
+즉 이 노드는 단순히 `많이 아는 도구 목록`이 아니라 아래 사다리를 밟는다.
+1. OS와 셸을 직접 만질 수 있어야 한다.
+2. 그 위에서 로컬/서버 환경을 다시 만들 수 있어야 한다.
+3. 그 다음에야 Git, 백업, 보안, 모니터링으로 복원력을 붙인다.
+4. 마지막에 Terraform, Serverless, Vault, gRPC처럼 시스템 책임 배치를 고민한다.
+
+이 사다리를 읽어 두면 원문 후반의 넓은 기술 메모가 수집벽처럼 보이지 않고, `기초 운영 감각을 더 큰 구조 판단으로 밀어 올리는 과정`으로 보인다.
+
+## 원문 발췌 구조
+
+### A. Linux 초반부는 `손으로 바로 만지는 조작면`이다
+- bash 조건문, `set -u -e`, `find -mtime`, `echo >>`, 날짜 포맷
+- startup files, dotfiles 심볼릭 링크
+- 한글 입력기, alt key, distro 이동, touchpad·font·monitor 문제
+- `du`, `wget`, timezone, `sudo`
+
+원문은 개념 설명보다 `어디를 고치고 어떤 명령을 치는가`를 먼저 남긴다.
+
+### B. 중반부는 `운영 상태를 오래 유지하는 법`으로 넘어간다
+- `tar` 백업과 crontab
+- iptables와 SSH 보안
+- PostgreSQL 설치·replication·dump cronjob
+- DNS zone, storage, quota, NFS, FTP
+
+여기서는 도구 이름보다 `서비스가 계속 살아 있게 만드는 절차`가 핵심이다.
+
+### C. 로컬 보조 메모도 생산성 부록이 아니라 `몸의 작업면 튜닝`이다
+- OBS, 배터리 상태, i3, w3m, code-server, WSL
+- scrcpy, vim lag, xrandr, iPad 보조 모니터, numpad mouse keys
+- font cache, keyboard repeat, touchpad gesture, clipboard alias
+
+저자에게 로컬 마찰 제거는 서버 운영보다 덜 중요한 일이 아니라, 같은 생산성 기반층이다.
+
+### D. Git 파트는 사용법보다 `꼬인 히스토리 복구법`에 오래 머문다
+- global user 설정, branch 이동, push without login
+- sensitive file 삭제, hooks, ignore
+- fetch/rebase/merge/reset이 꼬였을 때의 상황 메모
+- stash branch, ssh config, fast-forward abort, merge abort
+
+즉 Git도 협업 예절보다 `작업 복원 장치`로 먼저 읽힌다.
+
+### E. ETC 파트는 `서비스 조합 설계`의 실험장이다
+- Ansible vs shell, Terraform vs Serverless
+- Vault와 대체 비밀관리 도구
+- Nagios, Lambda cronjob, cloud infra, Kafka
+- gRPC, API gateway, streaming
+
+후반부는 도구 단품 사용보다 `어느 레이어에 어떤 책임을 둘지`를 계속 시험한다.
+
 ## 이 원문에서 특히 보존해야 하는 결
 
 ### 치트시트의 조각남 자체
@@ -193,6 +245,7 @@ GUI는 빠르지만 휘발되고, CLI는 번거롭지만 기록과 자동화가 
 - 로컬 환경 마찰 제거도 서버 운영만큼 중요한 툴 작업이다.
 - Git은 버전 관리보다 작업 복원력 확보라는 측면에서 읽어야 이 노드가 살아난다.
 - IaC와 운영 도구 메모는 취미 수집이 아니라 `시스템을 조합하는 능력`의 초기 형태다.
+- 이 노드의 좋은 읽기 순서는 `명령어 암기 → 파일 경로 기억 → 복구 루프 이해 → 레이어 책임 배치`가 아니라, 그 역순에 가깝다. 먼저 왜 복구와 책임 배치가 필요한지 보이고, 그 다음 명령어 조각이 의미를 얻는다.
 
 ## 인접 노드 연결
 - [[mapped/Meta/Troubleshooting]]: 도구 사용 중 생기는 오류를 상태 확인, 수정, 재검증 루프로 다루는 방식이 직접 맞닿아 있다.
@@ -210,8 +263,12 @@ GUI는 빠르지만 휘발되고, CLI는 번거롭지만 기록과 자동화가 
 - `Tool`과 `Infra`, `Devops`, `Troubleshooting`의 경계는 실제로 주제 구분인지, 같은 운영 감각의 다른 단면인지?
 - 로컬 마찰 제거 메모와 서버 운영 메모를 함께 두는 현재 구조가 만다라트 카테고리 노드로서는 오히려 더 정직한가?
 - 원문 후반의 gRPC, Kafka, streaming 메모는 차후 `시스템 통신 도구`라는 축으로 더 얇게 묶어 읽을 수 있는가?
+- Terraform·Serverless·Vault 메모를 `선언형 배치 / 실행 편의 / 비밀관리`의 3축 비교표로 한 번 더 압축하면 인접 노드와의 경계가 더 선명해지는가?
 
-## 정리 메모
-- 원문 전체를 다시 읽고 기존 baseline을 유지한 채, 이 노드를 `치트시트 모음`보다 `환경 장악과 운영 복원력의 기초 카테고리`로 더 선명하게 재정리했다.
-- Linux 기초, 로컬 환경 마찰, 백업/보안, Git 복구, IaC와 시스템 조합이라는 층위를 분리해 읽기 경로를 더 명확히 했다.
-- 명령어 목록을 줄여 매끈하게 만들기보다, 경로·권한·복구·미해결 질문이 남아 있는 원문 결을 보존해 이후 점진 심화의 기반을 다졌다.
+## 드리프트 점검
+대응 원본 `source/shdkej-content/Fundamental/Tool.md`의 파일 수정 시각은 mapped 노트보다 오래되어, 이번 실행에서는 사용자의 최근 직접 수정본으로 판단하지 않았다. 따라서 `human-reviews/` 복사는 생략했다.
+
+## 이번 갱신 메모
+- 기존 baseline은 유지한 채, 이 노드를 `기초 명령어 모음`보다 `하부 감각에서 상부 설계로 올라가는 운영 사다리`로 더 선명하게 읽히도록 보강했다.
+- `원문 발췌 구조`를 추가해 Linux 조작면 → 운영 지속성 → 로컬 작업면 튜닝 → Git 복구 → 서비스 조합 실험의 실제 배열을 다시 보이게 했다.
+- Git과 후반 ETC 파트를 별도 부록처럼 밀어내지 않고, 모두 `복원력`과 `책임 배치`라는 같은 판단 문법으로 연결했다.
