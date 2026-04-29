@@ -2,6 +2,14 @@
 
 ## 2026-04-29 | Root · Communication · Meta 노드 점진 심화
 
+### Deep Knowledge/Cloud 단일 노드 재심화
+- 갱신 범위: [[mapped/Deep Knowledge/Cloud]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본이 이번 런에서도 비어 있음을 다시 확인한 뒤, `Infra`·`Devops`·`Container`의 관련 source를 제한적으로 재검토해 이 노드가 여전히 벤더 기능 모음보다 상위 선택 기준을 담는 카테고리 경계에 가깝다는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 IAM shared responsibility, 계정 분리, CloudWatch·VPC Flow Logs, EKS·Fargate·Lambda 비교 흔적을 다시 읽어 `Cloud`를 `편의와 통제`뿐 아니라 `무엇을 맡기고 무엇을 계속 보여야 하는가`까지 다루는 운영 경계 노드로 보강했다.
+- 선호 신호: 저자는 Cloud 노트도 서비스 이름 사전보다, 관리형 추상화가 높아질수록 비용·권한·관측 경계가 어디서 다시 드러나는지 읽히는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Cloud.md`는 이번 런에서도 비어 있었고 file mtime 기준으로 mapped 노트보다 오래되어 직접 사용자 수정본으로 보이지 않았으므로 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Human/Readability 단일 노드 재심화
 - 갱신 범위: [[mapped/Human/Readability]] 1개 페이지만 점진 심화했다.
 - 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 문장 팁 모음이 아니라 `독자 적합성`, `정확성 보존`, `문장의 맛`, `입문과 원전 사이 거리`를 함께 조정하는 전달 윤리 노드라는 점을 재확인했다.
