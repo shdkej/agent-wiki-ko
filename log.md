@@ -2,6 +2,14 @@
 
 ## 2026-04-29 | Root · Communication · Meta 노드 점진 심화
 
+### Meta/Collection 단일 노드 재심화
+- 갱신 범위: [[mapped/Meta/Collection]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 항목 백과가 아니라 `자기 기준`, `표현 훈련`, `재발견 시스템`, `예외 수집`, `VS 판단축`, `비유·패턴 초안`을 함께 붙드는 메타 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `자연스럽게`·`비동기`·`중간단계`·`awesome snippet` 같은 짧은 묶음을 별도 축으로 끌어올려, 이 노드가 단순 수집창고를 넘어 비유와 운영 감각의 테스트베드라는 점을 더 선명하게 다듬었다. 추가로 [[mapped/Meta/About_Architecture]]와의 연결을 보강해, Collection에 남은 짧은 설계 감각 메모가 더 구조화된 아키텍처 판단으로 자라나는 경로도 짧게 적었다.
+- 선호 신호: 저자는 Collection 노트에서도 깔끔한 분류 완료보다, 아직 이름 붙는 중인 패턴·비유·코드 조각을 살아 있는 초안 상태로 붙들어 두는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Meta/Collection.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Communication/Foreign_language 단일 노드 재심화
 - 갱신 범위: [[mapped/Communication/Foreign_language]] 1개 페이지만 점진 심화했다.
 - 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 외국어 이론 정리보다 `막힌 문장 복구`, `자주 쓰는 동사 호출`, `상황 재진입 문장`, `사회적 타이밍 감각`을 함께 붙드는 실전 언어 카테고리라는 점을 재확인했다.
