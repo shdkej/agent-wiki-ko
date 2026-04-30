@@ -37,7 +37,7 @@
 - 정리: 기존 baseline은 유지한 채 중복 해설을 줄이면서 `채용 문서이면서 운영 설계 문서`라는 성격을 더 또렷하게 세웠다. 특히 프로젝트 배열, 다이어그램 사용, CloudFront Functions 보류 사례를 묶어 읽어 `구축 사례`뿐 아니라 `멈춤과 보류의 판단 근거`도 운영 자산으로 남기는 문서라는 점을 전면화했다.
 - 선호 신호: 저자는 포트폴리오에서도 실행 결과만보다 `언제 만들고 언제 멈출지`를 비용·트래픽·운영 반경으로 설명하는 정리를 더 선호하는 경향이 강하다.
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Portfolio.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
-- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 완료.
 
 ## 2026-04-30 | Communication 노드 점진 심화
 
