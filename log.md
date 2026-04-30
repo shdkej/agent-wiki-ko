@@ -1,5 +1,16 @@
 # 지식 랩 로그
 
+## 2026-04-30 | Fundamental · Human 노드 점진 심화
+
+### Fundamental/Computer_Architecture 단일 노드 재심화
+- 갱신 범위: [[mapped/Fundamental/Computer_Architecture]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 컴퓨터 부품 백과가 아니라 `실행 경로`, `메모리 배치`, `동시성 조정`, `운영 접점`을 함께 붙드는 기초 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `원문 발췌 구조`와 `이 노드를 읽는 4개 층위`를 추가해, 디스크→RAM→CPU 흐름이 왜 프로세스·페이징·캐시·세마포어·epoll·리눅스 디렉터리 메모까지 한 파일에 묶이는지 더 빠르게 읽히도록 다듬었다. 추가로 부팅·파일시스템·파티션 메모를 `구조 이해가 운영 복구 손잡이로 내려오는 지점`으로 다시 세워 [[mapped/Fundamental/Architecture]]와의 역할 차이도 보강했다.
+- 선호 신호: 저자는 Computer_Architecture 노트에서도 하드웨어 명칭 암기보다, 프로그램이 실제로 어떻게 올라와 실행되고 문제가 생기면 어디를 봐야 하는지가 보이는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Computer_Architecture.md`는 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 운영 교훈: 컴퓨터구조형 source 노트는 CPU·메모리·OS 부품 사전으로 줄이지 말고, 실행 경로 → 메모리 배치 → 동시성 조정 → 운영 접점의 사다리로 읽는 편이 드리프트를 줄인다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-04-30 | Human 노드 점진 심화
 
 ### Human/Standard 단일 노드 재심화
