@@ -2,6 +2,14 @@
 
 ## 2026-05-01 | Integration · blog · Communication · Root · Deep Knowledge · Idea · Fundamental · Human · Health 노드 점진 심화
 
+### Human/Balance 단일 노드 재심화
+- 갱신 범위: [[mapped/Human/Balance]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 중용 일반론이 아니라 `Human > Balance` 위치에서 삶 전반의 충돌하는 가치쌍을 조정하는 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 만다라트 위치 해석을 앞쪽에 보강했고, `시작 vs 밑그림`, `애자일 vs 주먹구구`를 속도 취향이 아니라 `어떤 비용이 더 비싼가`를 먼저 가르는 감각으로 다시 세웠다. 또한 긴 대비쌍을 다시 활용할 수 있도록 `4가지 재진입 질문`과 [[mapped/Human/Principle]]·[[mapped/Human/Reality]]와의 역할 차이를 추가해 이 노드가 `원칙과 현실 사이의 중간 제어면`으로 더 빨리 읽히게 다듬었다.
+- 선호 신호: 저자는 Balance 노트에서도 애매한 중립보다, 소유·체면·확신에 덜 묶이면서 상황별 비용과 왜곡을 읽어 조정하는 판단 문법이 보이는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Human/Balance.md`는 frontmatter상 최근 갱신 이력이 있으나 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Fundamental/Network 단일 노드 재심화
 - 갱신 범위: [[mapped/Fundamental/Network]] 1개 페이지만 점진 심화했다.
 - 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 프로토콜 용어집이 아니라 `요청이 길을 찾고 전달되고 경계에서 조절되는 방식`을 붙드는 `Fundamental > Network` 카테고리라는 점을 재확인했다.
