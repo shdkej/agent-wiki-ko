@@ -1,5 +1,16 @@
 # 지식 랩 로그
 
+## 2026-05-01 | Integration · blog · Communication · Root · Deep Knowledge · Idea 노드 점진 심화
+
+### Idea/Journal 단일 노드 재심화
+- 갱신 범위: [[mapped/Idea/Journal]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 연도별 일기 인덱스가 아니라 `기록을 남기고 다시 찾고 주제 노드로 번역하는 방식`을 설계하는 `Idea` 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `만다라트 위치에서 읽는 해석`을 추가하고, 원문 발췌 구조를 실제 소제목 흐름에 맞춰 더 촘촘하게 다시 적었다. 또한 연도별 아카이브·5년 노트·브랜치 보관·최신 상태 유지 메모를 묶어 `과거를 보존하면서 현재 위키와 다시 잇는 운영 감각`을 별도 축으로 세웠고, [[mapped/Human/Readability]] 연결 경로도 실제 구조에 맞게 바로잡았다.
+- 선호 신호: 저자는 Journal 노트에서도 감성 일기보다, 하루 입력을 나중에 다시 찾아 쓰고 분류·연결·리마인드할 수 있게 만드는 기록 운영 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Idea/Journal.md`는 frontmatter상 최근 갱신 이력이 있으나 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 운영 교훈: Journal형 source 노트는 일기 목록으로 평탄화하지 말고, 시간축 기록을 검색·분류·재사용·성장 추적으로 다시 연결하는 기록 운영 인터페이스로 읽는다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-05-01 | Integration · blog · Communication · Root · Deep Knowledge 노드 점진 심화
 
 ### Deep Knowledge/Data 단일 노드 재심화
