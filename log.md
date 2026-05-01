@@ -2,6 +2,14 @@
 
 ## 2026-05-01 | Integration · blog · Communication · Root · Deep Knowledge 노드 점진 심화
 
+### Communication/Teamwork 단일 노드 재심화
+- 갱신 범위: [[mapped/Communication/Teamwork]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 협업 미담집이 아니라 `맥락 전달`, `권한 배치`, `기술 규칙`, `심리적 안전감`을 함께 설계하는 Communication 카테고리의 운영 노드라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 팀장을 `통제자`보다 `인터페이스 설계자`로 읽는 축을 추가했고, 감독·PM 비교 메모를 통해 바깥 요구를 안쪽 실행 언어로 번역하는 역할을 더 선명하게 드러냈다. 또한 `질문하기 죄송`, `바빠 보이는 리더`, `진행상황 정리 어려움` 메모를 개인 약점보다 맥락 단절과 질문 경로 불명확성의 신호로 재묶고, 커밋 규칙·코드 리뷰·문서·온보딩·GitHub workflow 메모를 `팀의 기억 형식`으로 다시 세워 기술 규칙이 왜 팀워크의 일부인지 더 빨리 읽히게 다듬었다.
+- 선호 신호: 저자는 Teamwork 노트에서도 친화력보다, 사람이 덜 막히고 다음 사람이 더 빨리 재진입할 수 있게 만드는 번역 노동과 협업 인터페이스 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Teamwork.md`는 frontmatter상 최근 갱신 이력이 있으나 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Integration/Tool 단일 노드 재심화
 - 갱신 범위: [[mapped/Integration/Tool]] 1개 페이지만 점진 심화했다.
 - 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 툴 추천 모음이 아니라 만다라트 `Integration` 축에서 여러 도구층을 하나의 작업면으로 묶는 통합 노드라는 점을 재확인했다.
