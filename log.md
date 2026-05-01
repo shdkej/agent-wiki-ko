@@ -2,6 +2,14 @@
 
 ## 2026-05-01 | Integration · blog · Communication · Root · Deep Knowledge 노드 점진 심화
 
+### Integration/Marketing 단일 노드 재심화
+- 갱신 범위: [[mapped/Integration/Marketing]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 채널 운영 팁 모음이 아니라 `유입`, `전환`, `잔존`, `말투`, `채널별 인상`을 하나의 사용자 흐름으로 묶는 `Integration` 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `만다라트 위치에서 읽는 해석`을 추가하고, [[Business]]·[[Creator]]·[[../Deep Knowledge/Product]]와의 역할 차이를 더 분명히 적었다. 또한 무료 버전의 마찰과 유료 버전의 자동화를 별도 축으로 세워, 전환을 단순 가격표가 아니라 `어떤 불편을 남기고 어떤 불편을 없앨 것인가`를 설계하는 편집 작업으로 더 선명하게 다듬었다.
+- 선호 신호: 저자는 Marketing 노트에서도 홍보 채널 자체보다, 사람 해석·설득 구조·브랜드 톤·제품 경험이 이어지는 통합 접점 설계를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Integration/Marketing.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Communication/Teamwork 단일 노드 재심화
 - 갱신 범위: [[mapped/Communication/Teamwork]] 1개 페이지만 점진 심화했다.
 - 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 협업 미담집이 아니라 `맥락 전달`, `권한 배치`, `기술 규칙`, `심리적 안전감`을 함께 설계하는 Communication 카테고리의 운영 노드라는 점을 재확인했다.
