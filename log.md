@@ -2,6 +2,14 @@
 
 ## 2026-05-01 | Integration · blog · Communication · Root · Deep Knowledge 노드 점진 심화
 
+### Deep Knowledge/Container 단일 노드 재심화
+- 갱신 범위: [[mapped/Deep Knowledge/Container]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 컨테이너 소개문보다 `격리된 실행 단위`를 실제 배포·복구 체계로 키우는 `Deep Knowledge` 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `원문 발췌 구조`를 추가해 도커 기본 성질 → 관측 → Dockerfile 규율 → 개발/배포 충돌 → 쿠버네티스 운영 확장의 실제 배열을 복원했고, `격리 → 가시화 → 책임 분리 → 롤백 가능성 → 증설`의 운영 루프를 별도 축으로 세워 긴 메모가 하나의 운영 문법을 반복한다는 점을 더 빠르게 읽히게 다듬었다.
+- 선호 신호: 저자는 Container 노트에서도 도커 명령 암기보다, 개발 편의와 실서버 재현성 사이의 긴장을 어떻게 운영 규율로 바꿀지까지 보이는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Container.md`는 frontmatter상 과거 갱신 이력이 있으나 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Integration/Marketing 단일 노드 재심화
 - 갱신 범위: [[mapped/Integration/Marketing]] 1개 페이지만 점진 심화했다.
 - 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 채널 운영 팁 모음이 아니라 `유입`, `전환`, `잔존`, `말투`, `채널별 인상`을 하나의 사용자 흐름으로 묶는 `Integration` 카테고리라는 점을 재확인했다.
