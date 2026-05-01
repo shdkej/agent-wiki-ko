@@ -2,6 +2,13 @@
 
 ## 2026-05-01 | Integration · blog · Communication · Root · Deep Knowledge · Idea · Fundamental · Human 노드 점진 심화
 
+### CHANGELOG 단일 노드 재심화
+- 갱신 범위: [[mapped/CHANGELOG]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 루트 노드가 여전히 기능 히스토리보다 `유지·흡수·재방문`의 분포를 기록하는 개인 웹 운영 장부라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `Features` 81개 / `Bug Fixes` 215개 분포를 앞쪽에 세워 형식상 기능 문서가 실제로는 유지 기록에 더 가깝다는 점을 수치로 고정했다. 또 날짜형 `update`가 2020-10, 2020-11, 2021-02에 특히 몰린다는 표를 추가해 `짧은 재방문이 끊기지 않는 운영 박동` 해석이 실제 시간축과 함께 보이도록 보강했다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/CHANGELOG.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Human/Future 단일 노드 재심화
 - 갱신 범위: [[mapped/Human/Future]] 1개 페이지만 점진 심화했다.
 - 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 목표 관리표보다 `현재를 잃지 않는 미래 준비`, `노년의 살아 있음`, `다음 세대 설계`를 함께 다루는 `Human` 카테고리라는 점을 재확인했다.
