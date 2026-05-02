@@ -1,0 +1,22 @@
+{
+  "title": "Agent Wiki",
+  "pages": [
+    "index",
+    "---Concepts---",
+    "concepts",
+    "---Sources---",
+    "sources",
+    "---Diary---",
+    "diary",
+    "---Mapped---",
+    "mapped",
+    "---Syntheses---",
+    "syntheses",
+    "---Maintenance---",
+    "maintenance",
+    "---Reference---",
+    "agent_rules",
+    "knowledge_lab_readme",
+    "log"
+  ]
+}
