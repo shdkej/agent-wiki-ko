@@ -1,5 +1,16 @@
 # 지식 랩 로그
 
+## 2026-05-02 | Fundamental 노드 점진 심화
+
+### Fundamental/Data_Structure 단일 노드 재심화
+- 갱신 범위: [[mapped/Fundamental/Data_Structure]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 자료구조 이름 사전이 아니라 `무슨 연산을 빠르게 만들고 싶은가`, `찾기 위해 무엇을 미리 조직할 것인가`를 묻는 `Fundamental` 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `만다라트 위치에서 읽기`, `원문 발췌 구조`, `이 노드를 묶는 연산 사다리`, `우선순위 큐를 따로 오래 붙드는 이유`, `언어와 시스템 층에서 다시 읽기`를 보강해 배열·해시·트리·BFS·DB 인덱스·trie 메모가 하나의 연산 선택 문법으로 더 빨리 읽히게 다듬었다.
+- 선호 신호: 저자는 Data Structure 노트에서도 정의 암기보다, 문제 문장에서 필요한 연산을 감지하고 그 연산을 빠르게 만들 구조를 고르는 판단 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Data_Structure.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 운영 교훈: 자료구조형 source 노트는 구조 이름 목록보다 `어떤 연산을 빠르게 만들고 싶은가`와 `찾기 위해 무엇을 미리 조직하는가`의 두 축으로 먼저 읽는다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-05-01 | Integration · blog · Communication · Root · Deep Knowledge · Idea · Fundamental · Human · Health 노드 점진 심화
 
 ### Human/Balance 단일 노드 재심화
