@@ -1,6 +1,14 @@
 # 지식 랩 로그
 
-## 2026-05-02 | Communication · Fundamental 노드 점진 심화
+## 2026-05-02 | Communication · Fundamental · blog 노드 점진 심화
+
+### blog/Digital_Content 단일 노드 재심화
+- 갱신 범위: [[mapped/blog/Digital_Content]] 1개 페이지만 점진 심화했다.
+- 탐구: 원문 전체와 기존 mapped 노트를 다시 읽고, 이 노드가 여전히 백업 팁 메모가 아니라 `소장 욕구`, `플랫폼 종속`, `권리 충돌`, `다시 꺼내 보여 주기`를 함께 붙드는 `blog` 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `blog` 위치 해석을 추가해 이 페이지를 소비자 불만 정리보다 `디지털 시대의 소장 감각을 독자에게 설명하는 글감`으로 다시 세웠다. 또한 `원문 발췌 구조`를 보강해 저장 질문 → DRM/반출 충돌 → 랜섬웨어·매체 수명 → 서비스 지속성 → 재큐레이션으로 이어지는 흐름을 복원했고, 후반 뉴스레터 인용과 종이책 소장 기쁨을 `보존 이후 다시 꺼내 보여 주기` 축으로 끌어올려 개인 아카이브 운영 노드 성격을 더 선명하게 다듬었다.
+- 선호 신호: 저자는 Digital_Content 노트에서도 스펙형 보존법보다, 좋아하는 것을 왜 꼭 곁에 두고 싶어 하는지와 그 욕구가 플랫폼·권리·재사용 문제와 어디서 충돌하는지가 보이는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/blog/Digital_Content.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
 ### Communication/Blogging 단일 노드 재심화
 - 갱신 범위: [[mapped/Communication/Blogging]] 1개 페이지만 점진 심화했다.
