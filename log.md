@@ -1,5 +1,12 @@
 ## 2026-05-03 | Fundamental·Deep Knowledge·Root·Meta·Communication·Human·Health 노드 점진 심화
 
+### Fundamental/Coding 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Fundamental/Coding]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Fundamental/Coding.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 `source/shdkej-content/Fundamental/Software.md`만 참고해 이 노드가 언어 문법 정리장이 아니라 `Fundamental` 안에서 설계 원칙·실패 처리·검증·언어 철학을 함께 붙드는 기초 판단 노드임을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `설계 원칙 → 구현 레이아웃 → 테스트 → 에러 처리 → 언어별 실행 모델`의 사다리로 구조를 다시 세웠다. 특히 `main` 표면, util/common 경계, 빠른 리턴, Python/Go/JS/Kotlin 메모를 하나의 `변경 가능성과 복구 가능성` 질문으로 다시 묶어 긴 원문 분량이 산만한 스크랩장이 아니라는 점을 더 선명하게 만들었다.
+- 선호 신호: 저자는 코딩 노트에서도 문법 요약이나 스타일 취향보다, 변경 반경·실패 노출·테스트 허용 범위·언어별 복잡성 제어가 한 화면에 함께 보이는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Coding.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+
 ### Fundamental/Network 단일 노드 점진 심화
 - 갱신 범위: [[mapped/Fundamental/Network]] 1개 페이지만 점진 심화했다.
 - 탐구: 대응 원본 `source/shdkej-content/Fundamental/Network.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 `source/shdkej-content/Fundamental/Computer_Architecture.md`, [[mapped/Deep Knowledge/Infra]]만 참고해 이 노드가 프로토콜 백과가 아니라 `전달·인터페이스·경계·병목`을 함께 붙드는 Fundamental 카테고리임을 재확인했다.
