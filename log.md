@@ -15,6 +15,13 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Health/Music.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Communication/Blogging 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Communication/Blogging]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Communication/Blogging.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 `source/shdkej-content/blog/Note_Management.md`만 참고해 블로깅 노드가 단순 글쓰기 팁 묶음이 아니라 내부 위키와 외부 발행 사이의 운영 표면인지 재확인했다.
+- 정리: 기존 baseline은 유지한 채 만다라트를 `발행 가능한 주제 포트폴리오의 상한선`으로 읽는 축을 보강했고, 블로그를 `기록 보존`뿐 아니라 기존 메모를 다시 호출하는 `재발견 인터페이스`로 해석하는 단락을 추가했다. 또한 발행 전환 루프를 확장해, 발행 후의 글이 다시 기존 메모와 만다라트 구조를 조정하는 환류까지 한 번에 보이도록 다듬었다.
+- 선호 신호: 저자는 블로그를 새 글 양산 채널보다, 제한된 카테고리 안에서 오래 숙성한 메모를 독자용 표면으로 번역하고 다시 자기 노트 시스템을 호출하는 편집 장치로 다루는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Blogging.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+
 ## 2026-05-02 | mapped note 점진 심화
 
 ### Meta/AGENTS
