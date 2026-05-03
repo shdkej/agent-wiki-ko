@@ -1,3 +1,12 @@
+## 2026-05-03 | Meta·Communication·Human·Health 노드 점진 심화
+
+### Meta/Collection 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Meta/Collection]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Meta/Collection.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 [[mapped/Human/Principle]]만 참고해 이 노드가 단순 스크랩 창고가 아니라 `기준·명명·재발견 시스템·VS 판단축`을 함께 붙드는 메타 수집면이라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `same area word`와 `좋은 이름의 기준`을 명명 훈련 축으로 끌어올렸고, 리뷰 커뮤니티·알림 봇·아카이빙 메모를 `출처 지도 → 변화 감지 → 재호출`의 재발견 시스템으로 다시 묶었다. 또 후반 `VS` 메모를 찬반 목록보다 규모·조직 구조·복구 비용에 따라 답이 달라지는 운영 판단 훈련으로 보강했다.
+- 선호 신호: 저자는 Collection 노트에서도 항목 수집 자체보다, 무엇을 어떤 이름으로 다시 찾고 어떤 비교축으로 오래 붙들지까지 함께 설계하는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Meta/Collection.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+
 ## 2026-05-03 | Communication 노드 점진 심화
 
 ### Communication/Document 단일 노드 점진 심화
