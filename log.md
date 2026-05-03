@@ -1,3 +1,21 @@
+## 2026-05-03 | Fundamental·Deep Knowledge·Root·Meta·Communication·Human·Health 노드 점진 심화
+
+### Fundamental/Network 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Fundamental/Network]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Fundamental/Network.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 `source/shdkej-content/Fundamental/Computer_Architecture.md`, [[mapped/Deep Knowledge/Infra]]만 참고해 이 노드가 프로토콜 백과가 아니라 `전달·인터페이스·경계·병목`을 함께 붙드는 Fundamental 카테고리임을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 HTTP·WebSocket·gRPC·GraphQL 메모를 `인터페이스 운반층 4종`으로 다시 묶고, NIC·라우터·ARP·브로드캐스트·CPU 소모 메모를 `병목 층 분리` 관점으로 재정리해 후반부 잡다한 메모의 구조를 더 선명하게 다듬었다.
+- 선호 신호: 저자는 네트워크 노트에서도 프로토콜 정의를 늘어놓기보다, 요청 문법의 차이와 과부하가 먼저 터지는 층을 한 화면에서 비교할 수 있는 정리를 더 선호하는 경향이 보인다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Network.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+
+## 2026-05-03 | Deep Knowledge·Root·Meta·Communication·Human·Health 노드 점진 심화
+
+### Deep Knowledge/Cloud 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Deep Knowledge/Cloud]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Deep Knowledge/Cloud.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 `source/shdkej-content/Deep Knowledge/Infra.md`, `agent-wiki/content/docs/mapped/Deep Knowledge/Infra.mdx`만 참고해 이 공란 노드가 지식 누락이 아니라 `Deep Knowledge` 안의 상위 판단 경계를 보존하는 카테고리인지 재확인했다.
+- 정리: 기존 baseline은 유지한 채 상위 폴더 `Deep Knowledge`의 위치 의미를 앞쪽에 세우고, `Cloud`를 서비스 소개 칸보다 `추상화 수용 범위·책임 위임·회귀 가능성`을 다루는 판단 칸으로 더 명시했다. 또한 인접 노트 흔적은 내용을 대신 채우는 재료가 아니라 경계를 선명하게 하는 보조 증거로만 써야 한다는 기준을 본문에 추가했다.
+- 선호 신호: 저자는 빈 Cloud 노트도 외부 일반론이나 벤더 백과사전으로 채우기보다, 나중에 직접 메모가 들어왔을 때 어떤 층위의 판단으로 읽어야 하는지 먼저 고정하는 정리를 더 선호하는 경향이 보인다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Deep Knowledge/Cloud.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+
 ## 2026-05-03 | Root·Meta·Communication·Human·Health 노드 점진 심화
 
 ### CHANGELOG 단일 노드 점진 심화
