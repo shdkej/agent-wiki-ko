@@ -25,6 +25,15 @@
 - 드리프트 점검: 대응 원본 `source/shdkej-content/blog/100k_concurrent_server.md`는 frontmatter상 2021 수정 기록만 있고 file mtime 기준으로도 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Communication/Teamwork 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Communication/Teamwork]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Communication/Teamwork.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 [[mapped/Communication/Open_Source]]만 참고해 이 노드가 여전히 관계 기술 메모가 아니라 `맥락 전달·권한 배치·기술 handoff`를 함께 다루는 Communication 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 기능 조직·목적 조직·TF·피자 2판 팀 메모를 `구조 이름`보다 `handoff 비용` 관점으로 다시 묶었고, 후반 커밋/리뷰/문서/핸드북 메모도 `이해 → 실행 → 공유 → 재사용`의 협업 루프로 재정리했다. 덕분에 팀워크가 친화력 문제가 아니라 `다음 사람이 다시 들어올 수 있는 표면`을 만드는 운영 설계라는 점이 더 선명해졌다.
+- 선호 신호: 저자는 Teamwork 노트에서도 리더십 조언과 기술 운영 규칙을 따로 요약하기보다, 질문 경로·공개 기록·공용 문법이 함께 작동하는 협업 인터페이스로 읽어 주는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Communication/Teamwork.md`는 frontmatter상 최근 갱신 이력이 있으나 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 운영 학습: 협업형 source 노트는 리더십 조언, 조직 구조, 문서 규칙, 기술 workflow를 따로 요약하지 말고 `맥락 전달`과 `재진입 가능한 handoff`를 만드는 하나의 협업 인터페이스로 읽는 규칙을 `logs/OPERATING_LESSONS.md`에 추가했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-05-03 | Human 노드 점진 심화
 
 ### Human/Standard 단일 노드 점진 심화
