@@ -1,4 +1,12 @@
-## 2026-05-04 | Health·blog·Idea 노드 점진 심화
+## 2026-05-04 | Health·blog·Idea·Meta 노드 점진 심화
+
+### Meta/AGENTS 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Meta/AGENTS]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Meta/AGENTS.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 [[mapped/Communication/Teamwork]]만 참고해 이 노드가 여전히 도구 세팅 메모가 아니라 `역할 × 문서 × handoff`를 설계하는 Meta 카테고리의 운영 허브라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 원문 첫머리의 `리더` 중심 배치를 만다라트식 중심-주변 구조로 더 해석했고, `약한 고리 강화`를 자동화 과시보다 병목 보강의 출발점으로 전면화했다. 또 `사진과 프롬프트`, 블로그 같은 외부 표면을 내부 위키 바깥의 홍보 부록이 아니라 고객 반응을 되가져오는 운영 기억층으로 다시 묶어, 이 노드가 멀티에이전트 설정표보다 문서 기반 협업 시스템 설계 노드라는 점을 더 선명하게 다듬었다.
+- 선호 신호: 저자는 AGENTS 노트에서도 모델/플러그인 목록 자체보다, 어떤 중심 문서군이 여러 역할을 묶고 어디서 병목을 보강하며 어떤 발행 표면으로 고객 신호를 다시 받아오는지가 보이는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Meta/AGENTS.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
 ### Idea/History 단일 노드 점진 심화
 - 갱신 범위: [[mapped/Idea/History]] 1개 페이지만 점진 심화했다.
