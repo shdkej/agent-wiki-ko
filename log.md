@@ -37,6 +37,14 @@
 - 운영 학습: 대립쌍 축적형 source 노트는 항목별 결론을 성급히 통합하지 말고, 이후 사례를 계속 끼워 넣을 수 있는 비교축 저장소로 먼저 읽는 규칙을 `logs/OPERATING_LESSONS.md`에 추가했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
+### Human/Reality 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Human/Reality]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Human/Reality.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 [[mapped/Human/Principle]]만 참고해 이 노드가 여전히 냉소적 현실주의가 아니라 `이상·형식·추상`이 실제 사용과 생활 마찰 앞에서 어떻게 검증되는지를 다루는 Human 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 짧게 흩어져 있던 `de facto` 메모를 `문서 규칙보다 실제 사용 습관이 먼저 기준을 굳히는 현실 층`으로 끌어올렸고, 카테고리/추상화 메모도 개발 부록이 아니라 `분류 체계 역시 현실 재사용 동선 앞에서 수정된다`는 설계 현실 문제로 다시 묶었다. 덕분에 생활 마찰, 예술사 논쟁, 소프트웨어 추상화가 모두 `현실이 아이디어를 검증하고 형식을 굳히는 방식`이라는 공통 질문으로 더 선명하게 이어졌다.
+- 선호 신호: 저자는 Reality 노트에서도 현실 적응 팁보다, 이상과 형식이 실제 사용 장면에서 어떻게 살아남거나 수정되는지가 보이는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Human/Reality.md`는 frontmatter상 최근 갱신 이력이 있으나 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-05-04 | Health·blog·Idea·Meta 노드 점진 심화
 
 ### Meta/AGENTS 단일 노드 점진 심화
