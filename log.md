@@ -1,3 +1,13 @@
+## 2026-05-04 | Fundamental 노드 점진 심화
+
+### Fundamental/Architecture 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Fundamental/Architecture]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Fundamental/Architecture.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 [[mapped/Meta/About_Architecture]]만 참고해 이 노드가 여전히 패턴 사전이 아니라 `Fundamental` 축에서 다른 기술 노드들의 변화 관리 기준을 잡는 상위 카테고리라는 점을 재확인했다.
+- 정리: 기존 baseline은 유지한 채 `만다라트 위치에서 읽기`를 추가해 이 노드의 상위 기준면 성격을 더 앞에 세웠고, 길게 나열된 아키텍처 이름들을 `우열 비교표`가 아니라 `같은 변화 관리 질문을 반복해 만져 보는 후보군`으로 다시 읽는 단락을 보강했다. 또 후반 코드 레이아웃 메모를 계층 패턴 복습이 아니라 `변경 이유가 다른 것끼리 수정 지점을 분리하는 운영 감각`으로 재정리해, 원문의 패턴·컴포넌트·레이어 메모들이 결국 `좋은 구조`보다 `좋은 변화 관리`를 향한다는 점이 더 선명해졌다.
+- 선호 신호: 저자는 Architecture 노트에서도 유명한 구조 이름 자체보다, 무엇을 늦게 결정하고 어디서 수정 지점을 끊어야 사람이 다시 들어와도 덜 헤매는지가 보이는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Architecture.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ## 2026-05-04 | Health 노드 점진 심화
 
 ### Health/Food 단일 노드 점진 심화
