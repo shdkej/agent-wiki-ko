@@ -1,4 +1,4 @@
-## 2026-05-04 | Health 노드 점진 심화
+## 2026-05-04 | Health·blog 노드 점진 심화
 
 ### Health/Decision 단일 노드 점진 심화
 - 갱신 범위: [[mapped/Health/Decision]] 1개 페이지만 점진 심화했다.
@@ -6,6 +6,14 @@
 - 정리: 기존 baseline은 유지한 채 `소유 욕구 vs 관리 표면 축소` 축을 새로 전면화했고, 후반 `공간 분리` 메모를 인테리어 부록이 아니라 `선택이 덜 꼬이게 만드는 생활 배치` 문제로 다시 묶었다. 또 반복 판단 축에 `분리된 환경 vs 한 공간 다기능화`를 추가해, 도구·집·작업 환경 선택이 같은 문법 위에 있음을 더 선명하게 다듬었다.
 - 선호 신호: 저자는 Decision 노트에서도 더 많이 갖는 법보다, 유지 포인트를 줄이고 몸·공간·주의력을 덜 새게 만드는 정리를 더 선호하는 경향이 강하다.
 - 드리프트 점검: 대응 원본 `source/shdkej-content/Health/Decision.md`는 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
+### blog/100k_concurrent_server 단일 노드 점진 심화
+- 갱신 범위: [[mapped/blog/100k_concurrent_server]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/blog/100k_concurrent_server.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 [[mapped/Fundamental/Network]], [[mapped/Meta/Troubleshooting]]만 참고해 이 노드가 여전히 성능 자랑 글이 아니라 `대규모 동접 실험을 해석하는 운영 로그`라는 점을 다시 고정했다.
+- 정리: 기존 baseline은 유지한 채 `10만 동접`이 실제로는 `짧은 요청 / 유지 연결 / websocket / 앞단 포함 전체 경로`를 한데 부르는 느슨한 이름이라는 점을 전면에 보강했다. 또 `서버 코드`보다 `테스트 토폴로지`가 계속 바뀌는 노트라는 점, 그리고 최고 기록보다 `어느 층이 먼저 비명을 질렀는가`를 읽어야 한다는 점을 분명히 해 숫자 혼선을 줄였다.
+- 선호 신호: 저자는 부하테스트 노트에서도 최대 수치 자체보다, 에러 문구·관측 명령·실험 배치 차이를 통해 병목 층을 판별할 수 있게 정리하는 쪽을 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/blog/100k_concurrent_server.md`는 frontmatter상 2021 수정 기록만 있고 file mtime 기준으로도 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
 - 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
 
 ## 2026-05-03 | Human 노드 점진 심화
