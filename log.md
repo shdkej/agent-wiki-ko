@@ -1,5 +1,13 @@
 ## 2026-05-04 | Fundamental 노드 점진 심화
 
+### Fundamental/Math 단일 노드 점진 심화
+- 갱신 범위: [[mapped/Fundamental/Math]] 1개 페이지만 점진 심화했다.
+- 탐구: 대응 원본 `source/shdkej-content/Fundamental/Math.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 이 노드가 수학 단권 요약이 아니라 `Fundamental` 안에서 여러 기술 노드로 넘어가기 전 쓰는 기초 번역층이라는 점을 다시 고정했다.
+- 정리: 기존 baseline은 유지한 채 `만다라트 위치에서 읽기`를 새로 추가해 Math가 `Network / Computer_Architecture / Software`로 이어지는 번역면이라는 점을 앞쪽에 세웠다. 또 기존 `관계식 / 신호 / 신뢰 / 제어` 축 사이에 `집적` 축을 새로 세워, 반도체·CPU 연표가 단순 하드웨어 상식 부록이 아니라 `관계식을 실제 장치 안에 얼마나 촘촘히 접어 넣는가`를 다루는 핵심 층임을 더 선명하게 만들었다.
+- 선호 신호: 저자는 Math 노트에서도 순수 수학 정의집보다, 보이지 않는 현상을 변수 관계로 붙잡아 통신·하드웨어·합의·제어로 옮겨 가는 기초 감각이 한 화면에서 이어지는 정리를 더 선호하는 경향이 강하다.
+- 드리프트 점검: 대응 원본 `source/shdkej-content/Fundamental/Math.md`는 frontmatter상 최근 갱신 이력이 있으나 file mtime 기준으로 mapped 노트보다 오래되어 이번 런의 직접 사용자 수정본으로 보이지 않았고, 따라서 `human-reviews/` 복사는 생략했다.
+- 배포: `scripts/publish-agent-wiki.sh` 실행 예정.
+
 ### Fundamental/Architecture 단일 노드 점진 심화
 - 갱신 범위: [[mapped/Fundamental/Architecture]] 1개 페이지만 점진 심화했다.
 - 탐구: 대응 원본 `source/shdkej-content/Fundamental/Architecture.md` 전체와 기존 mapped 노트 전체를 다시 읽고, 필요 최소 맥락으로 [[mapped/Meta/About_Architecture]]만 참고해 이 노드가 여전히 패턴 사전이 아니라 `Fundamental` 축에서 다른 기술 노드들의 변화 관리 기준을 잡는 상위 카테고리라는 점을 재확인했다.
