@@ -20,7 +20,14 @@ Archive를 닫을 때 모든 Intent는 지식 판정을 남긴다.
 
 Knowledge Lab 페이지에는 Archive 원장과 필요한 Artifact/Report 경로를 출처로 남긴다. 원문 실행 로그를 길게 복사하지 않고, 다음 작업의 선택을 바꾸는 최소 판단만 컴파일한다.
 
+## 흐름과 마감
+
+- Knowledge Lab 승격은 `source → ingest decision → compiled knowledge → remote commit`의 흐름이 한 번에 보이도록 `knowledge-flow.md` 같은 receipt를 남길 때 가장 재검증하기 쉽다.
+- 재사용 원칙이 아니라 실행 마감 자체를 정리해야 하는 경우에는 terminal report를 별도로 남겨, 완료된 일과 미완료된 일, 실제 blocker, 재시도 가능 여부, 개선점을 함께 적는다.
+- 이 둘은 메모를 늘리기 위한 장치가 아니라, 승격된 판단이 어디서 왔고 어디까지 닫혔는지 다시 찾을 수 있게 하는 추적 장치다.
+
 ## 관련 문서
 
 - [[../insights/Knowledge Lab Operating Thesis]]
 - `infinity/workflows/heartbeat.md`
+- `source/openclaw-system/docs/INFINITY_OPERATING_RULES.md`
