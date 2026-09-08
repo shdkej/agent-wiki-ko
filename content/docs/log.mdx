@@ -22,6 +22,14 @@ title: "log"
 - 읽은 문서: [[index|중앙 목차]], `INFINITY_OPERATING_RULES.md`, [[insights/infinity-archive-knowledge-promotion|실행 원장에서 지식으로 승격하기]].
 - 결과: 같은 페이지에 흐름 증빙과 마감 기록을 덧붙여, 승격 판단이 어디서 왔고 어디까지 닫혔는지 다시 찾을 수 있게 보강했다. 중복되는 Archive 개념은 새 페이지로 분리하지 않았다.
 
+## 2026-09-07 21:40 UTC | 자율 제안 루프의 안전한 재가동
+
+- query: OpenClaw가 새 신호를 선제적으로 일감으로 전환하되, 독단적인 실행과 반복 알림을 피하는 운영 경계를 점검했다.
+- 검색어: `signal-to-intent`, `proposer`, `approval`, `heartbeat`, `Infinity`.
+- 읽은 문서: [[index|중앙 목차]], `DOCUMENT_SEARCH_PIPELINE.md`, `SIGNAL_TO_INTENT_PROPOSER.md`, `EVALUATION_NOTES.md`, `QUERY_GAPS.md`.
+- raw KL: `EVALUATION_NOTES.md`와 `QUERY_GAPS.md`를 현재 신호 후보 확인에만 사용했다. 둘은 운영 정본이며 제안의 근거 경로로만 남긴다.
+- 결과: proposer를 30분 변경 감지 기반·Inbox 제안 전용으로 바꿨다. 모든 작업은 사용자 승인 전 Active로 승격하거나 실행하지 않으며, Infinity 독립 저장소의 `origin/main`만 완료 조건으로 확인한다.
+
 ## 2026-09-06 19:30 UTC | source/openclaw-system 전체 점검과 캐러셀 편집 규칙 승격
 
 - ingest: `source/openclaw-system`의 최근 변경분과 `INSTAGRAM_CAROUSEL_PROMPT_SYSTEM.md`, `INFINITY_OPERATING_RULES.md`, `LOCAL_REVIEW_AUTOMATION.md`를 점검했다.
